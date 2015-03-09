@@ -1,0 +1,2598 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.8.10)  25 JUN 2014 11:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mainfile.tex
+(./mainfile.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/kanlel.sty
+Package: kanlel 
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen112
+\extrarowheight=\dimen113
+\NC@list=\toks19
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip48
+\LTright=\skip49
+\LTpre=\skip50
+\LTpost=\skip51
+\LTchunksize=\count100
+\LTcapwidth=\dimen114
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count101
+\LT@rows=\count102
+\c@LT@tables=\count103
+\c@LT@chunks=\count104
+\LT@p@ftn=\toks20
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks22
+\float@box=\box32
+\@float@everytoks=\toks23
+\@floatcapt=\box33
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen117
+\epsfysize=\dimen118
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks24
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen119
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip52
+\f@ncyO@elh=\skip53
+\f@ncyO@erh=\skip54
+\f@ncyO@olh=\skip55
+\f@ncyO@orh=\skip56
+\f@ncyO@elf=\skip57
+\f@ncyO@erf=\skip58
+\f@ncyO@olf=\skip59
+\f@ncyO@orf=\skip60
+)
+(./mainfile.aux)
+\openout1 = `mainfile.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+lel on input line 53.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/base/ot1lel.fd
+File: ot1lel.fd 
+)
+(./preface.tex)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+] [2
+
+] (./mainfile.toc)
+\tf@toc=\write3
+\openout3 = `mainfile.toc'.
+
+ [3] [4
+
+] (./introduction.tex
+Underfull \vbox (badness 1292) has occurred while \output is active []
+
+ [1])
+(./prakarana2.tex [2]
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 16.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+[3]
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps> [4]
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu2.eps Graphic file (type eps)
+
+<mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>) (./prakarana3.tex [5]
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+ [6]
+[7]
+Overfull \hbox (3.14386pt too wide) in paragraph at lines 124--125
+[]$\OT1/cmr/m/n/12 (8)$ \OT1/lel/m/n/12 haNatUkake guMji‘nAlakxdu | eNisa‘lokxM
+‘Bat‘utx paNava tUka‘davara‘haM|| paNa‘mU‘ru‘vara‘hamUra | kakxNiyAgu‘
+ []
+
+
+Underfull \vbox (badness 1590) has occurred while \output is active []
+
+ [8]
+Overfull \hbox (13.5072pt too wide) in paragraph at lines 230--231
+[]$\OT1/cmr/m/n/12 (18)$ \OT1/lel/m/n/12 ELare‘viVsaga‘jANiyu| keVLANiyu SoV‘Da
+shakekx guMTeyadakukxM|| meVLise guMTeyanalava| tAtxLu‘vadoMdekare
+ []
+
+File: mu3.eps Graphic file (type eps)
+<mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps> [9] [10]
+Overfull \hbox (23.92108pt too wide) in paragraph at lines 307--308
+[]$\OT1/cmr/m/n/12 (25)$ \OT1/lel/m/n/12 di‘na‘padineY‘dake pakaSxvu| anunayadi
+M‘pakaSxmeraDu mAsamadoM‘daM|| sanu‘mata‘mAsa davxyaQutu| vinayadoLadu
+ []
+
+[11]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 356.
+
+Overfull \hbox (9.86478pt too wide) in paragraph at lines 360--361
+[]\OT1/lel/m/n/12 kaM|| dina mu‘vayx‘totxMdiru‘vavu| janavari meV mAciR ju‘leY 
+yAg‘iSiTxgeyuM| neneyakoTxVba‘mARsaku |
+ []
+
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+(./prakarana4.tex [14]
+Overfull \hbox (0.11057pt too wide) in paragraph at lines 21--21
+[]\OT1/lel/m/n/12 kaM|| Ekadashashatasa‘hasarxvu| Akar‘avA‘dayu‘ta‘lakaSx parxy
+u‘taM koV‘TiV|| beVkeni‘pabuRda mabejxga| LAKavaR
+ []
+
+) (./prakarana5.tex [15]
+Overfull \hbox (2.88216pt too wide) in paragraph at lines 12--13
+[]\OT1/lel/m/n/12 kaM|| oMderaDu mU‘runAlukxM| saMd‘hipadeY‘dArumeVLumeM‘ToMBat
+‘atxM|| aM‘dado‘Livu mU‘lAMkiga|
+ []
+
+
+Overfull \hbox (4.49252pt too wide) in paragraph at lines 45--46
+\OT1/lel/m/n/12 shU‘nayx be‘leyu‘LaLx‘dAdxgiyU iru‘vadu hAyxgeM‘dare $\OT1/cmr/
+m/n/12 804$ \OT1/lel/m/n/12 eM‘TunUra nAlukx, eMba I saMKeyalilx
+ []
+
+) (./prakarana6.tex [16]) (./prakarana7.tex [17] [18]) (./prakarana8.tex
+[19] [20] [21] [22]
+Overfull \hbox (10.63577pt too wide) in paragraph at lines 321--322
+\OT1/lel/m/n/12 parxteyxVka vaya‘susx‘gaLe‘SuTx? elalxra vaya‘sUsx sheVri eS‘uT
+x? u. $\OT1/cmr/m/n/12 52\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 48\OML/cmm/m/it/12 
+; \OT1/cmr/m/n/12 44\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 40\OML/cmm/m/it/12 ; \OT
+1/cmr/m/n/12 36\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 32\OML/cmm/m/it/12 ; \OT1/cmr
+/m/n/12 28\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 24\OML/cmm/m/it/12 ; \OT1/cmr/m/n/
+12 20\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 16\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 12
+8$
+ []
+
+) (./prakarana9.tex [23]
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 44
+ []
+
+[24]
+Overfull \hbox (7.34435pt too wide) in paragraph at lines 72--72
+[]\OT1/lel/m/n/12 kaM|| piri‘bele saMKayxsAthx‘pisi| kiri‘bele saMKayx‘vanu kiV
+Le‘bariyuta karx‘madi| iruva piri‘beleya modalino|
+ []
+
+[25] [26] [27]) (./prakarana10.tex [28]
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 47
+ []
+
+[29]
+Underfull \hbox (badness 2591) in paragraph at lines 80--80
+[]\OT1/lel/m/n/12 kaM|| so‘nenxy‘oLaMkiyaniriya| losx‘nenxyadAgu‘vadu‘tiLidu da
+shi‘giVsahi‘taM|| nan‘inxyiM bariyu
+ []
+
+[30]
+Overfull \hbox (1.79147pt too wide) in paragraph at lines 124--124
+[]\OT1/lel/m/n/12 kaM|| aLiguM‘Nayxva navadiM‘dali| vu‘Lu‘van‘inxri‘Naka navado
+LaLedu‘Lu‘viM‘daM|| aLiyada navadiM‘duLidudu|
+ []
+
+
+Overfull \hbox (5.08646pt too wide) in paragraph at lines 126--126
+\OT1/lel/m/n/12 gu‘Nisi A labad‘hx‘va‘nunx navadiM‘daL‘adare uLiyuva sheVSavu (
+labad‘hx‘va‘nunx navadiMdA aL‘adare uLiyuva
+ []
+
+[31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 251--259
+
+ []
+
+[33]
+Overfull \hbox (1.76904pt too wide) in paragraph at lines 280--281
+\OT1/lel/m/n/12 gaLiru‘vaMteV baradu, A mane‘gaLalilx mUlege sariyAgi reVKegaLa
+‘nunx baradu, gu‘Nakada modalaneV
+ []
+
+File: mu.eps Graphic file (type eps)
+<mu.eps> [34]) (./prakarana11.tex [35]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 55
+ []
+
+[36] [37]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[38]
+Overfull \hbox (8.63597pt too wide) in paragraph at lines 154--155
+[]\OT1/lel/m/n/12 kaM|| uLu‘vanu BA‘jayx‘doLaLiyuta| laLi‘navadiM‘du‘Lu‘vuBa‘ja
+kanavadaLedu‘Luva|| nanxLeduL‘i‘dal‘abadhx sheVSadi|
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+[40] [41] [42]) (./prakarana12.tex [43] [44]
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu2.eps Graphic file (type eps)
+
+<mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+
+<mu2.eps> [45]) (./prakarana13.tex [46]
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: 10.eps Graphic file (type eps)
+ <10.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: 10.eps Graphic file (type eps)
+
+<10.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+File: mu2.eps Graphic file (type eps)
+<mu2.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>) (./prakarana14.tex [47]
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+
+<mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>) (./prakarana15.tex [48]
+Overfull \hbox (13.81241pt too wide) in paragraph at lines 24--44
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--44
+
+ []
+
+[49] [50] [51]) (./prakarana16.tex [52] [53] [54] [55] [56]) (./prakarana17.tex
+[57] [58]
+Underfull \hbox (badness 10000) in paragraph at lines 46--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
+
+ []
+
+[59]) (./prakarana18.tex [60] [61] [62]) (./prakarana19.tex [63] [64]
+File: mu3.eps Graphic file (type eps)
+
+<mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>) (./prakarana20.tex [65]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+) (./prakarana21.tex [66]
+Overfull \hbox (18.2426pt too wide) in paragraph at lines 56--57
+\OT1/lel/m/n/12 gaLu $\OT1/cmr/m/n/12 2[]$ \OT1/lel/m/n/12 sheVrigeM‘talU; maNu
+vina karxyada di‘vx‘gu‘NadaSATxNe paM‘ceVrigeM‘talU, maNuvina karxyaveSoTxV
+ []
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+File: mu2.eps Graphic file (type eps)
+<mu2.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+Underfull \hbox (badness 1406) in paragraph at lines 120--122
+[]\OT1/lel/m/n/12 kaM|| KaMDiya karxya‘van‘inxrisuta| KaMDi‘tadiMdeYdu patutx p
+adineY‘daroLU|| kaMDu beVbeVRre
+ []
+
+[68]
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps> [69]
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps> [70] [71] [72]) (./prakarana23.tex [73] [74]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+) (./prakarana24.tex [75]
+Overfull \hbox (4.4658pt too wide) in paragraph at lines 24--25
+\OT1/lel/m/n/12 man‘a‘susx baMda aM‘dare apa‘vatayxR‘na‘gaLu hecAcxgi uLaLxMthA
+ saMKayxdiM‘dalU adariMda hoVgadaMthA
+ []
+
+
+Overfull \hbox (3.64508pt too wide) in paragraph at lines 31--32
+[]\OT1/lel/m/n/12 udAharaNe--$\OT1/cmr/m/n/12 16\OML/cmm/m/it/12 ; \OT1/cmr/m/n
+/12 6\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 20\
+OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 24\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 10\OML/c
+mm/m/it/12 ; \OT1/cmr/m/n/12 30\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 8\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 12\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 25$ \OT1/lel/m/n/12
+ ivu‘gaLa laGutama sAmAnayx apa‘vatayxR‘va‘nunx kaMDu hiDi. 
+ []
+
+[76] [77]
+Underfull \hbox (badness 10000) in paragraph at lines 105--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--126
+
+ []
+
+) (./prakarana25.tex [78]
+Overfull \hbox (1.47186pt too wide) in paragraph at lines 25--26
+\OT1/lel/m/n/12 keLagU aMsha saMKayx‘va‘nunx meVlU bariyabeVku. hAyxgeM‘dare, $
+[]$ idu mUru paM‘ca‘mAMshaveMdu
+ []
+
+
+Package amsmath Warning: Foreign command \above;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 29.
+
+[79]
+Overfull \hbox (4.54935pt too wide) in paragraph at lines 68--69
+[]\OT1/lel/m/n/12 vi|| CeV‘dakikxM‘talU aMsha kaDameyAgi‘dadxre sama apUN‘ARMki
+‘gaLeM‘talU, CeV‘dakikxM‘talU aMsha hecAcxgi‘
+ []
+
+
+Overfull \hbox (2.21011pt too wide) in paragraph at lines 76--77
+[]\OT1/lel/m/n/12 kaM||CeVdAMshaveraDu mAtarxke| moV‘dadoLiru‘ti‘ralu BAga jAti
+yadeM‘baru|| CeV‘dAMshada pAlApxlina|
+ []
+
+
+Overfull \hbox (39.23619pt too wide) in paragraph at lines 80--84
+[][] 
+ []
+
+[80]
+Overfull \hbox (6.16545pt too wide) in paragraph at lines 90--90
+\OT1/lel/m/n/12 gaLeMtalU, pU‘vaRdalilx heVLi‘ratakakxMthA BAga‘gaLige aMthAveV
+ BAga‘gaLAgi sheVri‘dadxre Bi‘nanx rAshigaLeM‘
+ []
+
+) (./prakarana26.tex [81]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+) (./prakarana27.tex [82]
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+) (./prakarana28.tex [83]
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+) (./prakarana29.tex [84]) (./prakarana30.tex [85]
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+
+ []
+
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+) (./prakarana31.tex [87] [88]) (./prakarana32.tex [89] [90]
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu1.eps Graphic file (type eps)
+
+<mu1.eps>
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>) (./prakarana33.tex [91]
+Overfull \hbox (0.73788pt too wide) in paragraph at lines 19--21
+[]\OT1/lel/m/n/12 kaM|| piri‘beleya Bi‘nanxrAshige| kiri‘bele‘gaLa rUpa ko‘Duva
+ karx‘mavidu noVDeY|| kiri‘bele‘ga‘Lo‘DuDx‘taMshadi|
+ []
+
+[92]) (./prakarana34.tex [93]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+[94]) (./prakarana35.tex [95]
+Overfull \hbox (0.80054pt too wide) in paragraph at lines 14--15
+[]\OT1/lel/m/n/12 kaM| Bi‘nanxrAshigaLa laGutama| ve‘nunx‘vasama CeVda mADi aMs
+ha‘gaLe‘lalxva|| nan‘inxyiM kUDi ke‘La‘gaDe| muninxna
+ []
+
+
+Overfull \hbox (6.48633pt too wide) in paragraph at lines 16--17
+[]\OT1/lel/m/n/12 vi|| Bi‘nanxrAshigaLa‘nunx laGutama samaCeVda‘gaLa‘nunx mADi,
+ A aMsha‘gaLanelAlx kU‘D‘isi ke‘La‘gaDe, A laGutama
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--49
+
+ []
+
+[96] [97]
+Overfull \hbox (17.6611pt too wide) in paragraph at lines 112--113
+[]\OT1/lel/m/n/12 kaM|| Aru ru‘pAyado‘LeY‘dara| mU‘radaro‘LageMTu pAli‘nad‘haRd
+a mUru|| vArad‘hiyANiya mUr‘era| DAraroLuM
+ []
+
+[98]
+File: mu3.eps Graphic file (type eps)
+ <mu3.eps>
+File: mu2.eps Graphic file (type eps)
+ <mu2.eps>
+File: mu1.eps Graphic file (type eps)
+ <mu1.eps>) (./prakarana36.tex [99]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+[100] [101]) (./prakarana37.tex [102]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[103] [104]) (./prakarana38.tex [105]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[106]
+Underfull \vbox (badness 6792) has occurred while \output is active []
+
+ [107]
+Overfull \hbox (6.78894pt too wide) in paragraph at lines 93--94
+[]\OT1/lel/m/n/12 kaM|| Aranepu‘rade‘VLane shara| mU‘ranekaradad‘haRveMba BAgav
+u matAtx|| mU‘ranekar‘aveY‘danepura| dAranesharadadhaRdalilx
+ []
+
+
+Overfull \hbox (45.44975pt too wide) in paragraph at lines 97--98
+[]\OT1/lel/m/n/12 AraroLoMdaneBAgada| vArad‘hiy‘oVLUmxru‘madara yaraDar‘aLoM‘da
+nu|| vArado‘LeY‘dane BAgada| mUraroLeraDadaradhaRdi
+ []
+
+) (./prakarana39.tex [108]
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--58
+
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
+
+ []
+
+
+Underfull \vbox (badness 7576) has occurred while \output is active []
+
+ [110]
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
+
+ []
+
+
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+ [111]
+Underfull \hbox (badness 10000) in paragraph at lines 129--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112]
+[113]) (./prakarana40.tex [114]
+Overfull \hbox (2.16728pt too wide) in paragraph at lines 38--39
+[]\OT1/lel/m/n/12 kaM|| hatatxne aideM‘bu‘vaduM| ititxha CeV‘dadoLagaMsha BAg‘i
+s‘abeVkeM|| bathaRva sU‘cipu‘dadariM| hatatxro‘
+ []
+
+
+Overfull \hbox (2.87537pt too wide) in paragraph at lines 40--41
+[]\OT1/lel/m/n/12 vi|| $[]$ eM‘bu‘vadu, aMshada $\OT1/cmr/m/n/12 5$\OT1/lel/m/n
+/12 nunx CeV‘davAda $\OT1/cmr/m/n/12 10$\OT1/lel/m/n/12 riMda BAg‘isa beVkeMba 
+athaR‘va‘nunx ko‘Du‘tatxdeyAgi,
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+[116]
+Overfull \hbox (1.08162pt too wide) in paragraph at lines 106--107
+[]\OT1/lel/m/n/12 sU|| $\OT1/cmr/m/n/12 (1)$ \OT1/lel/m/n/12 dashamAMsha‘gaLa‘n
+unx sAd‘hA‘raNa Bi‘nanxrAshigaLa hAge baradu saMkeSxVpa rU‘pa‘va‘nunx mAD‘abahu
+du.
+ []
+
+
+Overfull \hbox (12.2196pt too wide) in paragraph at lines 115--116
+[]\OT1/lel/m/n/12 I ke‘Lage toVrisuva Bi‘nanx rAshigaLa‘nunx dashamAMsha rU‘pav
+AgiyU, dashamAMsha‘gaLa‘nunx Bi‘nanx rAshigaLa rU‘pAvAgiyU
+ []
+
+) (./prakarana41.tex [117]
+Overfull \hbox (6.56345pt too wide) in paragraph at lines 14--15
+[]\OT1/lel/m/n/12 kaM|| BAg‘isu CeV‘dadoLaMshava| nAg‘uLiyuva sheVSa‘gaLige pU‘
+jiya ko‘Du‘taM|| BAg‘isi barutihalabadhxdo|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+) (./prakarana42.tex [118]
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+[119]) (./prakarana43.tex [120]
+Overfull \hbox (2.63837pt too wide) in paragraph at lines 14--15
+[]\OT1/lel/m/n/12 kaM|| guM‘Nayxva gu‘Nakadi gu‘Nisuta| nan‘inxy‘oLuM baMda lab
+adhx ra‘vaNisi‘matAtx| guM‘Nayx gu‘Nakada dashAMshaga|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--29
+
+ []
+
+) (./prakarana44.tex [121]
+Overfull \hbox (3.78853pt too wide) in paragraph at lines 23--24
+[]$\OT1/cmr/m/n/12 (2)$ \OT1/lel/m/n/12 taruta dashAMshaMki‘gaLanu| baribiM‘du‘
+vin‘iM‘da‘vi‘Didu yaDa‘gaDe gAgaM|| diruva gu‘NUNxyXMki mikukxda|
+ []
+
+
+Overfull \hbox (12.28596pt too wide) in paragraph at lines 29--30
+\OT1/lel/m/n/12 pAshavxRda aMkiya‘nunx gu‘Nisi, adakekx mAtarx muMde vi‘varisuv
+a parxkArakekx dashaMkiya‘nunx tegadukoMDu
+ []
+
+[122]
+Underfull \hbox (badness 10000) in paragraph at lines 50--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+File: 2.eps Graphic file (type eps)
+<2.eps>
+Underfull \hbox (badness 2478) in paragraph at lines 66--67
+\OT1/lel/m/n/12 baradu koMDiru‘tatxde. in‘unx pUN‘aRMki‘gaLu ilalx‘dadxriMda ba
+l‘akekx aMki‘gaLa‘nunx bariyalilalxvu. uL‘ida
+ []
+
+[123]
+File: 4.eps Graphic file (type eps)
+ <4.eps>) (./prakarana45.tex [124]
+Overfull \hbox (4.5113pt too wide) in paragraph at lines 20--21
+[]\OT1/lel/m/n/12 vi|| pUN‘ARMkiya parxkArakekx BA‘jayx‘va‘nunx Ba‘jakadiMda BA
+g‘isi sheVSa uL‘i‘dare so‘nenx‘gaLa‘nunx tegadukoMDu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+File: 5.eps Graphic file (type eps)
+<5.eps>
+Underfull \vbox (badness 4467) has occurred while \output is active []
+
+ [125]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+File: 3.eps Graphic file (type eps)
+<3.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126])
+(./prakarana46.tex [127]) (./prakarana47.tex [128] [129]
+Overfull \hbox (2.26697pt too wide) in paragraph at lines 70--71
+[]\OT1/lel/m/n/12 mishArxvataR dashAMsha‘gaL‘i‘dadxre, anA‘vataR‘gaL‘Ada aMki‘g
+aLa‘nunx biTuTx biTuTx, muMde AvataR‘gaLA‘giruva AdayxMkAMki‘
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+) (./prakarana48.tex [130]
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
+
+ []
+
+[131]) (./prakarana49.tex
+Overfull \hbox (6.87038pt too wide) in paragraph at lines 15--16
+[]\OT1/lel/m/n/12 vi|| mishArx‘vataR dashAMsha‘gaLalilx anA‘vataR BAgadaMki‘gaL
+a‘nunx mAtarx kaLadu, uL‘i‘daMki‘gaLa‘nunx aMshaveMdu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--34
+
+ []
+
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+) (./prakarana50.tex [133]
+Overfull \hbox (9.73589pt too wide) in paragraph at lines 17--18
+[]\OT1/lel/m/n/12 vi|| kUDi, kaLiyuva leKaKx‘gaLalilx, apeVk‘iSxsi‘da‘SuTx dash
+amAMsha sathxLa‘gaLavarige leKaKx samAnA‘gira beVkAdare,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--47
+
+ []
+
+[134]
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
+
+ []
+
+[135]) (./prakarana51.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) (./prakarana52.tex [136]
+Overfull \hbox (10.44225pt too wide) in paragraph at lines 15--16
+[]\OT1/lel/m/n/12 muMdeyu I pari mADute| baMdiha labad‘hx‘vanu modali niCACxMsh
+adoLU|| aMdu gu‘Nisu‘tatxladaroLu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Overfull \hbox (23.2735pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 1176470588 []$ \OT1/lel/m/n/12 Ay‘itu. ida‘nunx meVlina $[]$ra 
+sAthx‘nadiMdA bariyalu, $[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 :\OT1/cmr/m/n/12
+ 5882352941176470588[]$
+ []
+
+) (./prakarana53.tex [137]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+[138]) (./prakarana54.tex
+Overfull \hbox (4.70525pt too wide) in paragraph at lines 13--14
+[]\OT1/lel/m/n/12 kaM|| iru‘tiha bele‘gaLige‘lalxM| biru‘tiha sama be‘leya rUpa
+ mADu‘tatx‘vanaM|| dar‘itu BAga‘vanu mADuta|
+ []
+
+[139] [140]) (./prakarana55.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+[141]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+) (./prakarana56.tex [142]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[143]
+Overfull \hbox (10.03596pt too wide) in paragraph at lines 91--107
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--121
+
+ []
+
+
+Overfull \hbox (7.71346pt too wide) in paragraph at lines 122--123
+[]\OT1/lel/m/n/12 kelavu leKaKx‘gaLa‘nunx hiVge dashAMsha riVtiy‘iMda mADoV‘Nad
+ariMda dashAMsha gaN‘i‘tada tiLava‘Likeyu canAnxgi Agutatxde. 
+ []
+
+[144] [145] [146] [147]
+Underfull \hbox (badness 10000) in paragraph at lines 285--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+[148] [149]
+Underfull \hbox (badness 10000) in paragraph at lines 379--385
+
+ []
+
+
+Overfull \hbox (18.54099pt too wide) in paragraph at lines 386--390
+[][] 
+ []
+
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 405--411
+
+ []
+
+
+Overfull \hbox (1.8807pt too wide) in paragraph at lines 436--437
+[]\OT1/lel/m/n/12 idaralilx $\OT1/cmr/m/n/12 6$ \OT1/lel/m/n/12 di‘vasakekx $\O
+T1/cmr/m/n/12 1$ \OT1/lel/m/n/12 rU‘pAyi pArx‘pitx yeM‘talU $\OT1/cmr/m/n/12 8$
+ \OT1/lel/m/n/12 di‘vasakekx $\OT1/cmr/m/n/12 1$ \OT1/lel/m/n/12 rU‘pAyi KacuR 
+yeM‘talU iTuTx koLoLxVNa. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--449
+
+ []
+
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 464--468
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--473
+
+ []
+
+[152]
+Underfull \hbox (badness 10000) in paragraph at lines 515--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--526
+
+ []
+
+[153]
+Underfull \hbox (badness 10000) in paragraph at lines 594--601
+
+ []
+
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 617--623
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--638
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--673
+
+ []
+
+[155]
+Overfull \hbox (0.97842pt too wide) in paragraph at lines 680--681
+[] $\OT1/cmr/m/n/12 84$ \OT1/lel/m/n/12 idu obobxbabx naDadaMte tiLakoLoLxVNa. 
+Agalu ivanigiM‘talU $\OT1/cmr/m/n/12 42$ \OT1/lel/m/n/12 meYlf akAranu naDadiru
+‘vadadxriMda,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--688
+
+ []
+
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 738--743
+
+ []
+
+[157]
+Overfull \hbox (10.2151pt too wide) in paragraph at lines 794--806
+[][] 
+ []
+
+[158] [159]
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
+
+ []
+
+[160]
+Underfull \hbox (badness 10000) in paragraph at lines 951--957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 958--971
+
+ []
+
+) (./prakarana57.tex [161] [162] [163]) (./prakarana58.tex [164]
+Underfull \hbox (badness 10000) in paragraph at lines 84--89
+
+ []
+
+[165] [166]) (./prakarana60.tex
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 38--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168]
+[169] [170]) (./prakarana61.tex) (./prakarana62.tex [171]
+Overfull \hbox (9.16158pt too wide) in paragraph at lines 31--32
+[]\OT1/lel/m/n/12 vi|| patarxda be‘leya‘nunx go‘tutx mADuva di‘vasadiMda patarx
+da gaDuvina varige eS‘uTx di‘vasagaLAgutatxveyoV
+ []
+
+
+Overfull \hbox (10.12813pt too wide) in paragraph at lines 33--34
+\OT1/lel/m/n/12 vasagaLa‘nunx dhamaRda di‘vasaveMdu sheVrisa takakx saM‘parx‘dA
+yavirutetx. AdadxriMda ada‘nUnx sheVrisikoMDeV
+ []
+
+[172]
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
+
+ []
+
+[173]) (./prakarana63.tex [174]) (./prakarana64.tex [175] [176]
+Overfull \hbox (1.03757pt too wide) in paragraph at lines 53--54
+[]\OT1/lel/m/n/12 sheVkaDA $\OT1/cmr/m/n/12 25$ \OT1/lel/m/n/12 rU‘pAyi lABavu‘
+LaLx $\OT1/cmr/m/n/12 50000$ \OT1/lel/m/n/12 rU‘pAyi‘gaLa QuNa saM‘caya‘va‘nunx
+ tegadukoLuLx‘vadakekx eS‘uTx haNavira
+ []
+
+) (./prakarana65.tex [177] [178]) (./prakarana66.tex
+Overfull \hbox (4.07506pt too wide) in paragraph at lines 16--18
+[]\OT1/lel/m/n/12 kaM|| iCi‘Cx‘suva pa‘dava meVlino| LiC‘oCxV‘tApx‘dakavadeMdu 
+bariyu‘tutxL‘i‘dava|| niCeCxy‘oLeDa bal‘a‘parimA|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--36
+
+ []
+
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 41--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--97
+
+ []
+
+[180]) (./prakarana67.tex
+Overfull \hbox (1.77827pt too wide) in paragraph at lines 12--14
+[]\OT1/lel/m/n/12 kaM|| ku‘rit‘o‘M‘daMkiyanadariM | dar‘it‘o‘Mde‘VsAriyadanu‘gu
+‘Nisal‘adoV‘gaRM|| baru‘tiha va‘gaRva matAtx
+ []
+
+[181]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--93
+
+ []
+
+[182]) (./prakarana69.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--42
+
+ []
+
+) (./prakarana70.tex [183] [184]) (./prakarana71.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--26
+
+ []
+
+[185]) (./prakarana72.tex [186]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--50
+
+ []
+
+
+Overfull \hbox (1.08443pt too wide) in paragraph at lines 59--60
+[]\OT1/lel/m/n/12 Agalu mU‘lAMki $\OT1/cmr/m/n/12 5$\OT1/lel/m/n/12 riMda Ba‘ja
+ka $\OT1/cmr/m/n/12 1045$\OT1/lel/m/n/12 nunx gu‘Nisalu $\OT1/cmr/m/n/12 5225$ 
+\OT1/lel/m/n/12 ida‘nunx sheVSa padada ke‘Lage baradukoMDu kaLiyalU
+ []
+
+[187]
+Underfull \hbox (badness 10000) in paragraph at lines 77--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--127
+
+ []
+
+File: 6.eps Graphic file (type eps)
+<6.eps>
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [188]
+Underfull \hbox (badness 10000) in paragraph at lines 143--150
+
+ []
+
+) (./prakarana73.tex [189]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--64
+
+ []
+
+[190]
+Overfull \hbox (3.29985pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/12 9$\OT1/lel/m/n/12 nunx adeV mU‘lAMki $\OT1/cmr/m/n/12 3$\OT1/le
+l/m/n/12 riMda gu‘Nisalu $\OT1/cmr/m/n/12 27$ \OT1/lel/m/n/12 eraDu so‘nenx‘gaL
+a‘nunx bariyalu $\OT1/cmr/m/n/12 2700$ \OT1/lel/m/n/12 ida‘nunx mad‘hayx‘dalilx
+ baradukoMDiru‘
+ []
+
+[191]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+[192]
+Overfull \hbox (4.5579pt too wide) in paragraph at lines 151--160
+[][] 
+ []
+
+) (./prakarana74.tex [193]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Overfull \hbox (9.61769pt too wide) in paragraph at lines 44--60
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--60
+
+ []
+
+[194]
+Overfull \hbox (0.9134pt too wide) in paragraph at lines 78--79
+[]$\OT1/cmr/m/n/12 4701813131098273196403798529343$ \OT1/lel/m/n/12 matUtx $\OT
+1/cmr/m/n/12 306890612\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 651583916787594637$ \OT
+1/lel/m/n/12 ivu‘
+ []
+
+) (./prakarana75.tex) (./prakarana76.tex [195] [196]) (./prakarana77.tex)
+(./prakarana78.tex [197]
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+) (./prakarana79.tex [198]) (./prakarana80.tex) (./prakarana81.tex [199])
+(./prakarana82.tex [200]) (./prakarana83.tex) (./prakarana84.tex [201])
+(./prakarana85.tex
+Overfull \hbox (8.31714pt too wide) in paragraph at lines 14--15
+[]\OT1/lel/m/n/12 kaM|| aM‘tado LAdiyakaLiyuta | leMtiha gaCaCx‘doLagoMda naLiy
+u‘ta‘l‘adariM|| niMtiha sheVSa‘vanahxrisalf
+ []
+
+[202]) (./prakarana86.tex) (./prakarana87.tex [203]
+Overfull \hbox (1.99254pt too wide) in paragraph at lines 12--14
+[]\OT1/lel/m/n/12 kaM|| gaCeCxyAnAdiy‘oLiri‘dada| niCeCxy‘oLA sar‘avxd‘hanadoLa
+Liduda di‘vx‘gu‘NaM|| gaCeCxy‘oLagoM‘dakaLadA
+ []
+
+
+Overfull \hbox (6.18912pt too wide) in paragraph at lines 15--16
+[]\OT1/lel/m/n/12 vi|| gaCeCxya‘nunx Adi padariMda gu‘Nisi ada‘nunx sar‘avxd‘ha
+nadalilx kaLadu uL‘i‘dadadxre di‘vx‘gu‘Na‘va‘nunx (gaCeCxyalilx|
+ []
+
+) (./prakarana88.tex
+Overfull \hbox (5.53859pt too wide) in paragraph at lines 14--15
+[]\OT1/lel/m/n/12 vi|| aM‘tayx pada‘gaLa‘nunx gaCaCxdiMda gu‘Nisi adar‘alilx sa
+r‘avxd‘hana‘va‘nunx kaLadu uL‘i‘dadadx‘nunx (gaCeCxyoLagoMdu
+ []
+
+[204]) (./prakarana89.tex) (./prakarana90.tex [205]) (./prakarana91.tex
+[206]) (./prakarana92.tex
+Overfull \hbox (7.1106pt too wide) in paragraph at lines 15--16
+[]\OT1/lel/m/n/12 matatxdanutatxdivxRguNado| LitutxM‘BA‘ga‘vanu labad‘hx‘vaM‘ta
+yx‘da‘pa‘dava| nunx‘tatxradiM‘dali BAg‘isi| matatx‘daroLokx‘
+ []
+
+) (./prakarana93.tex [207]) (./prakarana94.tex [208]) (./prakarana95.tex)
+(./prakarana96.tex [209]) (./prakarana97.tex [210]) (./prakarana98.tex [211])
+(./prakarana99.tex) (./prakarana100.tex [212]) (./prakarana101.tex [213])
+(./prakarana102.tex) (./prakarana103.tex [214]) (./prakarana104.tex
+Overfull \hbox (10.10503pt too wide) in paragraph at lines 12--13
+[]\OT1/lel/m/n/12 kaM|| oM‘daLi gu‘NakoV‘tatxradoLa| gaM‘du‘tatxra gaCaCx‘da‘Su
+Tx GAtisu‘tadaroLa|| goM‘danaLiduL‘ida saMKayxdo|
+ []
+
+[215]
+Overfull \hbox (5.33026pt too wide) in paragraph at lines 32--33
+[]\OT1/lel/m/n/12 obabx dhore parx‘tidi‘vasavU pU‘vaR di‘vasa koTiTx‘dadxkiMtA 
+nAlakxra‘SuTx hecucx hecAcxda darx‘vayx‘gaLa‘nunx $\OT1/cmr/m/n/12 16$ \OT1/lel
+/m/n/12 di‘vasagaLavarige
+ []
+
+) (./prakarana105.tex) (./prakarana106.tex [216]
+Overfull \hbox (2.17407pt too wide) in paragraph at lines 12--14
+[]\OT1/lel/m/n/12 kaM|| AdiyanaLi sar‘avxd‘hanadiM| moV‘dadoLuLidu‘danu sar‘avx
+‘danago‘LagaM‘tayxM|| bA‘dava‘mA‘Dida leKado|
+ []
+
+
+Overfull \hbox (2.01367pt too wide) in paragraph at lines 15--16
+[]\OT1/lel/m/n/12 vi|| sar‘avxd‘hanadalilx Adi pa‘da‘va‘nunx kaLadu uL‘i‘dadadx
+‘nunx (sar‘avxd‘hanadalilx aM‘tayx‘va‘nunx kaLaduL‘ida saMKayxdiMda)
+ []
+
+) (./prakarana107.tex [217]) (./prakarana108.tex
+Overfull \hbox (3.6299pt too wide) in paragraph at lines 12--13
+[]\OT1/lel/m/n/12 kaM|| utatxra gu‘NakAM‘tayx‘vanuM| bi‘tatxradiM gu‘NisikaLiyu
+kAdiya pa‘davada|| ni‘titxha gu‘NakoV‘tatxradoLa|
+ []
+
+
+Overfull \hbox (0.32748pt too wide) in paragraph at lines 14--15
+[]\OT1/lel/m/n/12 vi|| guNoV‘tatxra‘va‘nUnx aM‘tayx pa‘da‘va‘nUnx gu‘Nisi adar‘
+alilx Adi pa‘da‘va‘nunx kaLadu uL‘i‘dadx‘dadx‘nunx (guNoV‘
+ []
+
+) (./prakarana109.tex [218]
+Overfull \hbox (15.21219pt too wide) in paragraph at lines 18--19
+\OT1/lel/m/n/12 ada‘nunx (gaNoV‘tatxra‘va‘nunx gaCaCx‘da‘SuTx GAta‘mADi, adar‘a
+lilx $\OT1/cmr/m/n/12 1$ \OT1/lel/m/n/12 kaLadu uL‘i‘dadadx‘nunx oMdu kaDameyAd
+a
+ []
+
+) (./prakarana110.tex [219]) (./prakarana111.tex
+Underfull \hbox (badness 10000) in paragraph at lines 27--34
+
+ []
+
+[220]) (./prakarana112.tex
+File: 7.eps Graphic file (type eps)
+ <7.eps>
+Overfull \hbox (0.98004pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+[221]
+Overfull \vbox (1.24875pt too high) has occurred while \output is active []
+
+
+[222]
+File: 8.eps Graphic file (type eps)
+ <8.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 40--48
+
+ []
+
+File: 9.eps Graphic file (type eps)
+<9.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+
+ []
+
+[223]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+) (./prakarana113.tex) (./prakarana114.tex [224]) (./prakarana115.tex [225])
+(./prakarana116.tex [226]
+Overfull \hbox (12.03387pt too wide) in paragraph at lines 38--39
+[]$\OT1/cmr/m/n/12 11\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 12\OML/cmm/m/it/12 ; \O
+T1/cmr/m/n/12 13$ \OT1/lel/m/n/12 baM‘Nada cinanx‘gaLu $\OT1/cmr/m/n/12 18[]\OM
+L/cmm/m/it/12 ; \OT1/cmr/m/n/12 75\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 37[]\OML/c
+mm/m/it/12 ;$ \OT1/lel/m/n/12 to‘lA‘gaLa‘nunx tegadukoMDu puTavi‘TuTx eS‘uTx tU
+kakekx nililxsikoM‘
+ []
+
+) (./prakarana117.tex) (./prakarana118.tex [227]
+Overfull \hbox (9.97287pt too wide) in paragraph at lines 18--19
+[]\OT1/lel/m/n/12 kaM|| baM‘Nava tUkadi‘gu‘Nisuta| ba‘NaNxvu misharx‘do‘Lu‘tUka
+ viriyu‘takaLadara|| baM‘Navu misharx‘doLaLiyuta
+ []
+
+) (./prakarana119.tex) (./prakarana120.tex [228]
+Underfull \hbox (badness 10000) in paragraph at lines 23--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[229]) (./prakarana121.tex
+Overfull \hbox (6.51627pt too wide) in paragraph at lines 18--20
+[]\OT1/lel/m/n/12 uLadihasheVSake dhanaQuNa| tiLi‘dadanaM cini‘hxsAyxga dhanaQu
+Nav‘Aga || labxLigUDu tadakey‘iSaTxva | kaLadaMtara
+ []
+
+[230]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--69
+
+ []
+
+[231]
+Underfull \hbox (badness 10000) in paragraph at lines 78--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+[232]
+Overfull \hbox (1.91527pt too wide) in paragraph at lines 156--157
+\OT1/lel/m/n/12 tananxlilx eS‘uTx uLiV‘toV aSuTx rU‘pAyi‘gaLa‘nunx punaH sAlA t
+egadukoMDu er‘aDaneV aM‘gaDige hoVgi alilxyU
+ []
+
+) (./prakarana122.tex [233] [234]
+Overfull \hbox (8.94351pt too wide) in paragraph at lines 105--106
+[]\OT1/lel/m/n/12 kaM|| yoV‘ga‘vanad‘hiRsi va‘giRsu | tAgadaro‘LaLxbadx‘vaLidu 
+mUlava tegadada|| nUyx‘gAd‘haRdi kUDi kaLiyali|
+ []
+
+[235] [236] [237]
+Underfull \hbox (badness 10000) in paragraph at lines 290--298
+
+ []
+
+[238] [239] [240]
+Overfull \hbox (1.03505pt too wide) in paragraph at lines 500--501
+[]\OT1/lel/m/n/12 eraDu saMKayx‘gaLa BAga labad‘hx‘gaLu $\OT1/cmr/m/n/12 4[]\OM
+L/cmm/m/it/12 ; \OT1/cmr/m/n/12 2[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 3[]\OML/c
+mm/m/it/12 ;$ \OT1/lel/m/n/12 matutx avu‘gaLa va‘gARM‘tara‘gaLu $\OT1/cmr/m/n/1
+2 153[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 257[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/
+12 561$ \OT1/lel/m/n/12 Agalu,
+ []
+
+[241]
+Overfull \hbox (0.43665pt too wide) in paragraph at lines 522--543
+[]$[]$ [] 
+ []
+
+[242]
+Overfull \hbox (4.82974pt too wide) in paragraph at lines 605--606
+[]\OT1/lel/m/n/12 eraDu saMKayx‘gaLa gu‘NAkAra labad‘hx‘gaLu $\OT1/cmr/m/n/12 9
+6\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 84\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 192\OM
+L/cmm/m/it/12 ; \OT1/cmr/m/n/12 143$ \OT1/lel/m/n/12 matutx avu‘gaLa varAgxM‘ta
+txra‘gaLu $\OT1/cmr/m/n/12 80\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 160\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 112\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 48$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+
+Overfull \hbox (23.69148pt too wide) in paragraph at lines 623--624
+[]\OT1/lel/m/n/12 kaM|| pa‘ri‘mANa kANu‘tal‘iha parisaMKayx‘ga‘LoyxVga CeV‘dasa
+manaM‘takukxM|| iru‘tiha saMKayx‘gaLaMshake | sarigoLisuta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--643
+
+ []
+
+[243]
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--649
+
+ []
+
+) (./prakarana123.tex [244] [245]) (./257-315.tex [246]
+Overfull \hbox (2.8237pt too wide) in paragraph at lines 32--32
+[]|[]|  
+ []
+
+
+Overfull \hbox (15.65451pt too wide) in paragraph at lines 46--58
+[][] 
+ []
+
+
+Overfull \hbox (1.43384pt too wide) in paragraph at lines 61--69
+\OT1/lel/m/n/12 matutx agal‘adalilx $\OT1/cmr/m/n/12 1$ \OT1/lel/m/n/12 aDi ira
+takakxvu‘gaLAgiyU matutx oM‘doMdu cadaraDi vis‘itxV‘NaRvu‘LaLxvu‘gaLAgiyU iru‘t
+atxveMdu
+ []
+
+[247]
+Overfull \hbox (7.56825pt too wide) in paragraph at lines 86--99
+[]\OT1/lel/m/n/12 oMdu veVLe, udadx agala modal‘A‘davu‘gaLalilx aMgu‘la‘gaL‘i‘d
+adxre, avu‘gaLige‘lAlx oTiTxge aMgu‘la‘gaLa‘nenx mADikoMDu
+ []
+
+[248] [249]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [250]
+[251] [252]
+File: figure/fig1.eps Graphic file (type eps)
+ <figure/fig1.eps>
+File: figure/fig2.eps Graphic file (type eps)
+ <figure/fig2.eps>
+File: figure/fig3.eps Graphic file (type eps)
+ <figure/fig3.eps>
+File: figure/fig4.eps Graphic file (type eps)
+
+<figure/fig4.eps>
+File: figure/fig5.eps Graphic file (type eps)
+ <figure/fig5.eps> [253]
+File: figure/fig6.eps Graphic file (type eps)
+ <figure/fig6.eps>
+File: figure/fig7.eps Graphic file (type eps)
+ <figure/fig7.eps>
+File: figure/fig8.eps Graphic file (type eps)
+
+<figure/fig8.eps> [254]
+File: figure/fig9.eps Graphic file (type eps)
+ <figure/fig9.eps>
+File: figure/fig10.eps Graphic file (type eps)
+ <figure/fig10.eps>
+File: figure/fig11.eps Graphic file (type eps)
+
+<figure/fig11.eps>
+File: figure/fig12.eps Graphic file (type eps)
+ <figure/fig12.eps> [255]
+File: figure/fig13.eps Graphic file (type eps)
+ <figure/fig13.eps>
+File: figure/fig14.eps Graphic file (type eps)
+
+<figure/fig14.eps>
+File: figure/fig15.eps Graphic file (type eps)
+ <figure/fig15.eps>
+File: figure/fig16.eps Graphic file (type eps)
+ <figure/fig16.eps> [256]
+File: figure/fig17.eps Graphic file (type eps)
+
+<figure/fig17.eps>
+File: figure/fig18.eps Graphic file (type eps)
+ <figure/fig18.eps>
+File: figure/fig19.eps Graphic file (type eps)
+ <figure/fig19.eps> [257]
+Overfull \hbox (0.54591pt too wide) in paragraph at lines 551--554
+[]\OT1/lel/m/n/12 kaM|| pAdada aLateya mADuta| pAdadedamUR‘ley‘iMda niVLa‘vana‘
+Leyuta|| lAdara diri‘dava []
+ []
+
+File: figure/fig20.eps Graphic file (type eps)
+<figure/fig20.eps> [258]
+Overfull \hbox (1.77048pt too wide) in paragraph at lines 592--595
+[]\OT1/lel/m/n/12 kaM|| koV‘NatarxyadA kaqtiga| LokxVNa catuSaTxyadoLad‘haR par
+im‘iti sidad‘hxM|| koVNa catuSaTxya melalxva|
+ []
+
+File: figure/fig21.eps Graphic file (type eps)
+<figure/fig21.eps>
+Overfull \hbox (9.4776pt too wide) in paragraph at lines 596--606
+\OT1/lel/m/n/12 athavA elAlx tirxkoV‘Na‘gaLU catuBuRja keSxV‘tarx‘gaLalilx ad‘h
+aR pa‘ri‘mANa‘gaLige samAna‘gaLA‘gi‘ratakakxdu.
+ []
+
+File: figure/fig22.eps Graphic file (type eps)
+<figure/fig22.eps> [259]
+Overfull \hbox (27.53464pt too wide) in paragraph at lines 624--627
+[]\OT1/lel/m/n/12 sU|| I ca‘cAcxka keSxV‘tarxda yAvadAdarU oMdu bAhuvina aLatey
+a‘nunx va‘giR‘si‘darU athavA yAvadAdarU
+ []
+
+[260]
+File: figure/fig12.eps Graphic file (type eps)
+ <figure/fig12.eps>
+Overfull \hbox (18.34485pt too wide) in paragraph at lines 696--698
+[]\OT1/lel/m/n/12 kaM| vaMdu vAyxsakekx mU‘ruM| aM‘dayu‘ta‘doLAru‘vaMdu manuBA‘
+ga‘gaLU|| eMdi‘giru‘ti‘hadu sUkaSxmXdo|
+ []
+
+
+Overfull \hbox (4.34209pt too wide) in paragraph at lines 699--702
+[]\OT1/lel/m/n/12 sUthxla mA‘g‘a‘Rkekx. kaM|| ELakikx‘pa‘px‘tetxraDadu| tALiru‘
+vadu sUthxla‘paridhi eM‘dar‘i‘tadanaM|| meVLisiteYrXrAshiya‘
+ []
+
+[261]
+Overfull \hbox (2.12291pt too wide) in paragraph at lines 803--805
+[]\OT1/lel/m/n/12 vaqtatxda Pala‘vanu nAlakxro| LetitxriyalogxVLa kaMdu jAl‘ada
+ PalavuM|| matatxda vAyxsadoLiriyuta| letatxlakxri
+ []
+
+[262]
+File: figure/fig23.eps Graphic file (type eps)
+ <figure/fig23.eps> [263]
+File: figure/fig24.eps Graphic file (type eps)
+ <figure/fig24.eps> [264]
+Overfull \hbox (12.17702pt too wide) in paragraph at lines 929--932
+[]\OT1/lel/m/n/12 kaM|| pi‘DidoMdiS‘aTxnu Bu‘jeyeM| do‘DanadanogiR‘su‘ta‘l‘adan
+u‘ma‘totxMdiS‘aTx|| napx‘Dadu‘dariMda la‘harisute|
+ []
+
+
+Overfull \hbox (10.8089pt too wide) in paragraph at lines 933--937
+[]\OT1/lel/m/n/12 vi|| oMdu iSaTx‘va‘nunx Bu‘jeyeMtA kalipxsi, ada‘nunx va‘gaR 
+mADi, A va‘gaR‘va‘nunx ma‘totxMdiS‘aTx saMKayxdiMda
+ []
+
+[265] [266]
+Overfull \hbox (3.03116pt too wide) in paragraph at lines 1079--1082
+[]\OT1/lel/m/n/12 kaM|| ka‘naRda va‘gaRva di‘vx‘gu‘Nisi| ni‘NaRyadiM‘duyxgamxBu
+‘jeya no‘giR‘sikaLedaM|| nan‘inxyiM sheVSa mUlava|
+ []
+
+[267] [268]
+File: figure/fig25.eps Graphic file (type eps)
+ <figure/fig25.eps> [269]
+File: figure/fig26.eps Graphic file (type eps)
+ <figure/fig26.eps> [270] [271]
+File: figure/fig27.eps Graphic file (type eps)
+
+<figure/fig27.eps>
+Overfull \hbox (12.3397pt too wide) in paragraph at lines 1322--1325
+[]\OT1/lel/m/n/12 kaM|| iru‘tiha koVTiya no‘giRsu| tar‘i‘tadanaM bAhukaranx yoV
+‘gadoLahxrisu|| baru‘tiha PalavAyoVgadi|
+ []
+
+[272]
+File: figure/fig28.eps Graphic file (type eps)
+ <figure/fig28.eps> [273] [274]
+File: figure/fig29.eps Graphic file (type eps)
+ <figure/fig29.eps>
+File: figure/fig30.eps Graphic file (type eps)
+ <figure/fig30.eps>
+[275] [276]
+File: figure/fig31.eps Graphic file (type eps)
+ <figure/fig31.eps> [277]
+File: figure/fig32.eps Graphic file (type eps)
+ <figure/fig32.eps> [278] [279]
+File: figure/fig33.eps Graphic file (type eps)
+
+<figure/fig33.eps> [280]
+File: figure/fig34.eps Graphic file (type eps)
+ <figure/fig34.eps> [281]
+Overfull \hbox (7.34392pt too wide) in paragraph at lines 1853--1859
+[]\OT1/lel/m/n/12 vi|| $\OT1/cmr/m/n/12 103903$ \OT1/lel/m/n/12 mUru bAhu‘vigU,
+ $\OT1/cmr/m/n/12 84853$ \OT1/lel/m/n/12 catuBuR‘je‘gaLigU, $\OT1/cmr/m/n/12 70
+534$ \OT1/lel/m/n/12 paM‘caBu‘je‘gaLigU, $\OT1/cmr/m/n/12 60000$
+ []
+
+File: figure/fig35.eps Graphic file (type eps)
+<figure/fig35.eps> [282]
+File: figure/fig36.eps Graphic file (type eps)
+ <figure/fig36.eps> [283]
+File: figure/fig37.eps Graphic file (type eps)
+ <figure/fig37.eps> [284]
+[285]
+File: figure/fig38.eps Graphic file (type eps)
+ <figure/fig38.eps>
+File: figure/fig39.eps Graphic file (type eps)
+ <figure/fig39.eps> [286] [287]
+File: figure/fig40.eps Graphic file (type eps)
+ <figure/fig40.eps>
+[288]
+File: figure/fig41.eps Graphic file (type eps)
+ <figure/fig41.eps> [289]
+File: figure/fig42.eps Graphic file (type eps)
+ <figure/fig42.eps> [290]
+File: figure/fig43.eps Graphic file (type eps)
+ <figure/fig43.eps>
+[291] [292] [293]
+Overfull \hbox (38.74695pt too wide) in paragraph at lines 2593--2609
+ [] 
+ []
+
+[294]
+Overfull \hbox (8.13213pt too wide) in paragraph at lines 2672--2675
+[]\OT1/lel/m/n/12 kaM|| iSaTxva nad‘hiR‘su‘toM‘doM| daSaTxroLuM kaLa‘d‘u‘caraNa
+ navaSoV‘Dashasa|| patxSATxdipUNiR‘madashameV|
+ []
+
+
+Overfull \hbox (8.84702pt too wide) in paragraph at lines 2676--2678
+[]\OT1/lel/m/n/12 karasapatx Sa‘TakxrA‘maM| du‘ri‘taM soVmAbidhx bANa niru‘taM 
+sAthx‘pisu| tar‘i‘tar‘itu catura gaqha‘gaLa| tarataradiM
+ []
+
+[295] [296]
+Overfull \hbox (0.89378pt too wide) in paragraph at lines 2847--2852
+[]\OT1/lel/m/n/12 obabx jahagirfdAranu paM‘coV‘tatxra vaq‘did‘hxyAgi huTuTx‘vaL
+i‘gaLi‘ratakakxMthA $\OT1/cmr/m/n/12 16$ \OT1/lel/m/n/12 gArx‘ma‘gaLa‘nunx tana
+nx $\OT1/cmr/m/n/12 4$ \OT1/lel/m/n/12 jana makakxLige
+ []
+
+[297] [298] [299]
+Overfull \hbox (3.18694pt too wide) in paragraph at lines 3033--3036
+[]\OT1/lel/m/n/12 taDeyade kUDuta kaLadada| neDe biDade‘le‘sheVSa ratanx doLu d
+arx‘vayx‘vanuM|| biDade BAg‘isalu baru‘vadu| vaDeyanu
+ []
+
+[300]
+Overfull \hbox (21.96854pt too wide) in paragraph at lines 3104--3107
+[]\OT1/lel/m/n/12 sUtarx|| aMshaCeCxVda‘gaLaM‘tara| saMshayabi‘TaTx‘Dari‘gu‘Nis
+i baM‘dArAshiya|| naMshaCeCxV‘dAMtaradoVLf| saMshayaveV
+ []
+
+[301] [302]
+Overfull \hbox (9.22807pt too wide) in paragraph at lines 3191--3193
+[]\OT1/lel/m/n/12 sU|| iru‘tiha vAradoLoM‘daLi| baru‘ti‘hada‘nenxVLariMda gu‘Ni
+su‘taloMda|| nanxritu kUD‘is‘alu samanadu|
+ []
+
+
+Overfull \hbox (3.07304pt too wide) in paragraph at lines 3223--3226
+[]\OT1/lel/m/n/12 sUtarx|| peVL‘ida heVri‘namo‘tatxva| nALu‘ga‘Lo‘LagoM‘danaLid
+u BAg‘isu‘tadaroLf|| veVL‘i‘da‘heVranukaLiya|
+ []
+
+[303] [304] [305]
+Overfull \hbox (9.83925pt too wide) in paragraph at lines 3370--3388
+ [] 
+ []
+
+[306] [307]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [308]
+Overfull \hbox (9.30861pt too wide) in paragraph at lines 3585--3588
+[]\OT1/lel/m/n/12 sUtarx|| oM‘daniri nAlakxriM‘dali| saMd‘hisu‘tadak‘eraDukUDa 
+loM‘daMtar‘avada|| muM‘daku‘nAlakxroLiriyuta|
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [309]
+Overfull \hbox (8.85547pt too wide) in paragraph at lines 3612--3623
+ [] 
+ []
+
+
+Overfull \hbox (93.69229pt too wide) in paragraph at lines 3630--3639
+ [] 
+ []
+
+[310] [311]
+Overfull \hbox (5.18149pt too wide) in paragraph at lines 3772--3777
+[]\OT1/lel/m/n/12 vi|| avar‘avaru ku‘TiTx mA‘Di‘daMthA geVNu saMKayx‘gaLa‘nunx 
+parx‘tayx parxteyxVkav‘Agi va‘giRsi, avu‘gaLalilx adaradara
+ []
+
+[312]) (./169.tex
+Overfull \hbox (6.06323pt too wide) in paragraph at lines 15--18
+[]\OT1/lel/m/n/12 dinavaMdakokxMdakoDuvada| ken‘i‘tuMguragaM‘TapeVLavx‘nariyu‘t
+Atx‘galf|| en‘it‘o‘M‘dAdiya di‘vx‘gu‘Nado| LenitAgu‘
+ []
+
+) (./170.tex [313]) (./171.tex) (./172.tex [314]) (./173.tex) (./174.tex
+[315]
+Overfull \hbox (4.91975pt too wide) in paragraph at lines 7--11
+\OT1/lel/m/n/12 oM‘doMdu tegadukoMDu uL‘i‘dadadx‘nunx viBAg‘isu‘tAtx hoV‘galAgi
+ kaDege samanAgi hoV‘gabeVkAdare, Adiyalilx‘
+ []
+
+
+Overfull \hbox (9.16379pt too wide) in paragraph at lines 14--17
+[]\OT1/lel/m/n/12 pAlina janasaMKayx‘vanA| pAligey‘oMdad‘hik‘abaradu mAdiyaloM‘
+daMlAl‘isikaLediridu gu‘Nisuta pAlinoLoM
+ []
+
+[316]) (./175.tex) (./176.tex [317]
+Overfull \hbox (1.0702pt too wide) in paragraph at lines 13--16
+[]\OT1/lel/m/n/12 mututxgaLa paM‘cikoM‘buda| ki‘titx‘ha‘ja‘nar‘alilxy‘oMda naLi
+yu‘tutxL‘i‘dave|| matatx‘Dari gu‘Nisu‘toM‘danu| bitatxradiM
+ []
+
+) (./177.tex
+File: images/177.eps Graphic file (type eps)
+ <images/177.eps> [318]) (./178.tex
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/lel/m/n/12 beVkeMtA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/lel/m/n/12 beVkeMtA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/lel/m/n/12 beVkeMtA
+ []
+
+
+Underfull \vbox (badness 2150) has occurred while \output is active []
+
+ [319])
+(./179.tex [320] [321]) (./180.tex [322]) (./181.tex [323]
+Overfull \hbox (2.88664pt too wide) in paragraph at lines 68--69
+[]|\OT1/lel/m/n/12 modalaneVyavanige.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\OT1/lel/m/n/12 eraDaneV bAgali‘
+ []
+
+
+Overfull \hbox (2.35974pt too wide) in paragraph at lines 76--76
+[]|\OT1/lel/m/n/12 oMBatatxneVyavanige.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+[]|\OT1/lel/m/n/12 sheVru niVru
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 83--83
+[]|\OT1/lel/m/n/12 sheVru hAlu ko‘
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+[]|\OT1/lel/m/n/12 konege A pA‘
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+\OT1/lel/m/n/12 terxyalilx uLada
+ []
+
+[324]
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+Overfull \vbox (15.3003pt too high) detected at line 156
+ []
+
+File: images/R.eps Graphic file (type eps)
+<images/R.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+[325]
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps>
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps>
+File: images/R.eps Graphic file (type eps)
+
+<images/R.eps>
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps>
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps>
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps>) (./182.tex
+[326]
+File: images/u.eps Graphic file (type eps)
+ <images/u.eps>
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps> [327]
+File: images/mu.eps Graphic file (type eps)
+ <images/mu.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps>
+File: images/u.eps Graphic file (type eps)
+
+<images/u.eps>
+File: images/R.eps Graphic file (type eps)
+ <images/R.eps> [328] [329] [330] [331] [332]
+Overfull \hbox (0.44534pt too wide) in paragraph at lines 356--361
+\OT1/lel/m/n/12 eM‘bavarib‘abxra darx‘vayxkekx samanAgiyU Pa, eM‘bu‘vanige ba, 
+eM‘bu‘vana darx‘vayxkikxM‘talU $[]$ BAga kaDameyAgiyU
+ []
+
+[333]
+Overfull \hbox (19.42847pt too wide) in paragraph at lines 436--442
+\OT1/lel/m/n/12 vAyideyalilxyU adakikxM‘tAtx $\OT1/cmr/m/n/12 10$ \OT1/lel/m/n/
+12 hecucx $\OT1/cmr/m/n/12 3$\OT1/lel/m/n/12 neV vAyideyalilxyU adakiM‘tAtx $\O
+T1/cmr/m/n/12 10$ \OT1/lel/m/n/12 hecucx $\OT1/cmr/m/n/12 4$\OT1/lel/m/n/12 neV
+ vAyideyalilxyU
+ []
+
+[334] [335]
+Overfull \hbox (15.75606pt too wide) in paragraph at lines 537--541
+[]\OT1/lel/m/n/12 oMdu kAraMjige $\OT1/cmr/m/n/12 3$ \OT1/lel/m/n/12 ba‘cacxlu‘
+gaLuMTu. Avu‘gaLalilx modalaneVdu $\OT1/cmr/m/n/12 3$ \OT1/lel/m/n/12 GaLigeyal
+ilxyU, $\OT1/cmr/m/n/12 2$\OT1/lel/m/n/12 neVdu $\OT1/cmr/m/n/12 5$ \OT1/lel/m/
+n/12 GaLigeyalilxyU,
+ []
+
+
+Overfull \hbox (0.86212pt too wide) in paragraph at lines 542--548
+[]\OT1/lel/m/n/12 oMdu kAraMjige $\OT1/cmr/m/n/12 4$ \OT1/lel/m/n/12 ba‘cacxlu‘
+gaLuMTu. avu‘gaLalilx $\OT1/cmr/m/n/12 1$\OT1/lel/m/n/12 neVdu $\OT1/cmr/m/n/12
+ 1$ \OT1/lel/m/n/12 GaLigeyalilxyU er‘aDaneVdu $\OT1/cmr/m/n/12 2$ \OT1/lel/m/n
+/12 GaLigeyalilxyU
+ []
+
+
+Overfull \hbox (2.2595pt too wide) in paragraph at lines 577--581
+[]$\OT1/cmr/m/n/12 28000$ \OT1/lel/m/n/12 rU‘pAyi‘gaL‘A‘sitxyu‘LaLx ob‘abx gaqh
+asathxnu ada‘nunx tananx ma‘g‘a‘nigU ma‘g‘a‘LigU saha $\OT1/cmr/m/n/12 1[]$\OT1
+/lel/m/n/12 ge $[]$ parx‘mANadaMte
+ []
+
+[336]
+Overfull \hbox (4.334pt too wide) in paragraph at lines 587--593
+\OT1/cmr/m/n/12 2$\OT1/lel/m/n/12 neVyavana darx‘vayxvu sheVri $\OT1/cmr/m/n/12
+ 3$\OT1/lel/m/n/12 neVyavana darx‘vayxkikxMtA $\OT1/cmr/m/n/12 2400$ \OT1/lel/m
+/n/12 rU‘pAyi‘gaLu hecAcxgiyU matutx $\OT1/cmr/m/n/12 2$\OT1/lel/m/n/12 neV $\O
+T1/cmr/m/n/12 3$\OT1/lel/m/n/12 neVyavana
+ []
+
+[337] [338]
+Overfull \hbox (12.67654pt too wide) in paragraph at lines 742--744
+[]\OT1/lel/m/n/12 udadxda A sAli‘nalilx $\OT1/cmr/m/n/12 50$ \OT1/lel/m/n/12 ag
+al‘ada sAli‘nalilx $\OT1/cmr/m/n/12 20$ \OT1/lel/m/n/12 guM‘DugaLu‘LaLx AyAkaq‘
+tiV rAshiyalilx eS‘uTx guM‘DugaLirabahudu? 
+ []
+
+[339] [340]
+Overfull \hbox (17.78584pt too wide) in paragraph at lines 825--830
+\OT1/lel/m/n/12 kikxMtA $\OT1/cmr/m/n/12 25$ \OT1/lel/m/n/12 sheVru hAlu hecAcx
+giyeV iru‘tatxdeM‘talU matutx savaR misharxda $[]$ BAgakikxMtA $\OT1/cmr/m/n/12
+ 5$ \OT1/lel/m/n/12 sheVru kaDameyAgiyeV
+ []
+
+[341] [342]) [343] (./mainfile.aux) ) 
+Here is how much of TeX's memory you used:
+ 2510 strings out of 493634
+ 30346 string characters out of 3143421
+ 112976 words of memory out of 3000000
+ 5303 multiletter control sequences out of 15000+200000
+ 37697 words of font info for 95 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 29i,20n,43p,1793b,378s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on mainfile.dvi (347 pages, 1051288 bytes).

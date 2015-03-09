@@ -1,0 +1,980 @@
+\vskip 1cm
+
+\begin{center}
+{\bf\LARGE 56neV parxkaraNa.}\\
+\vskip .3cm
+{\rm SIMPLE PROPORTION.}
+\vskip .3cm
+{\bf tarxyarAshiya gaNitavu.}
+\end{center}
+
+terxYrAshi gaNitaveMdare, eraDu beVre beVre jAtigaLa beleyuLaLx saMKayxgaLAgiyU, matotxMdu avugaLalilx yAvadAdarU oMdu jAtiya saMKayxda beleyuLaLxdAdxgiyU idadxre, $1$neV matutx $2$neV saMKayxgaLige Enu saMbaMdha\-virutatxdeyoV aMthA saMbaMdha uLaLx $3$neV saMKayxkekx takakx $4$neV saMKayxvanunx kaMDu hiDiya takakx riVtiyU, idanunx terxYrAshi eMtalU tirx parxmANaveMtalU athavA mUru maneV leKaKxveMtalU anunxtAtxre.
+
+\begin{center}
+{\bf upayoVgavu.}
+\end{center}
+
+\begin{verse}
+kaM|| rAshi tarxya dupayukatxvu| leVsenisuva savxnaRdaMte sAvaRrigihudeY||
+rAshitarxyagaLa sUtarxva| leVsAgiye tiLiyuvaMte sulaBadi peVLevx\char'366||
+
+vi|| sherxSaTxvAda BaMgAravu hAyxge elAlx kArayxgaLigU janagaLigU upayoVgisutatxdeyoV hAge, I terxYrAshikada leKaKxda upayoVgavu sakalarigU uMTATxgirutAtxdakAraNa, idara sUtarxvanUnx sulaBavA\-gi heVLutAtxVne.
+\end{verse}
+
+\begin{center}
+{\bf\large sUtarx.}
+\end{center}
+
+\begin{verse}
+kaM|| utatxra barutiha jAtiya| netutxta mUraneya sathxLadi bariyuta leKada||
+vutatxra hecicxge baruvado| matatxdu kiVLAgi baruva dariyuta mudadiM||
+
+kaM|| piridAdutatxra barutire| piridAduda madayx kirida nAdiyoLiriseY || kiridA dutatxra barutire | kiridAduda madhayx pirida nAdiyoLiriseY||
+
+kaM|| irisuta liVpari padagaLa| sarigava samarAshigoMDu mUreraDanepada|| varitu guNisutatxladanaM| dharisAdiya padadoLAgaladu vutatxraveY||
+
+vi|| utatxra bara beVkAda jAtiya saMKeyxyanunx mUraneV sathxLadalilx baradu koLaLxbeVku. A meVle, A leKaKxdalilx utatxravu hecAcxgi barutatxdeyoV athavA kaDameyAgi barutatxdeyoV eMbuvadanunx AloVcisi, hecAcxgi baruva hAgidadxre, uLida eraDaMkigaLalilx hecAcxdadadxnenxV madhayxdalilx athavA eraDaneV sAthxnavAgi baradu kaDameyAdadadxnunx modalaneV sAthxnadalilx baradukoLaLx beVku.
+
+oMdu veVLe utatxravu kaDameyAgi baruva hAgidadx pakaSxdalilx, kaDameyAda saMKayxvanenxV madhayxdalilx baradu, hecAcxda saMKayxvanunx modalaneV sathxLadalilx baradukoLaLx beVku. A meVle sama rAshigaLanunx mADikoLaLx beVku.
+\end{verse}
+
+I riVtiyAgi mADi baradukoMDa meVle avugaLa madhayxgaLalilx parxmANa cinehxgaLanunx baradu anupAtadalilx $4$neV saMKayxvanunx tegiyuvadakekx heVLiruva parxkAra $2$neV $3$neV sAthxnada aMkigaLanunx guNisi, A labadhxvanunx modalaneV sAthxnada aMkiyiMda BAgisa beVku. hiVge mADuvAgeyx PArxkaSx\char'366 guNAkArada riVtiyanunx upayoVgisikoMDu hoDadu mADuvadu sulaBavAgiruvadu. \qq udAharaNegaLu.
+
+\begin{enumerate}[\rm(1)]
+
+\item $8$ maLa vasatxrXkekx $12$ rUpAyi $8$ ANe karxyavAdare, $36$ maLa vasatxrXkekx eSuTx rUpAyi?\\
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{maLa.} & \text{maLa.} & \text{rU.} & \text{ANe.}\\
+8 : & 36 :: & 12 & 8\\
+&&16 & \\
+\cline{3-3}
+&&200 & \text{ANegaLu.}
+\end{tabular}
+
+Agalu,
+ 
+\qq $\dfrac{36\times {\overset{\displaystyle{25}}{200}}}{\overset{\displaystyle{8}}{1}}= \dfrac{900\; \text{ANe}}{1}\div16=56$ rU. $4$ ANe utatxravu.
+
+\item $5$ maNada $\dfrac{7}{8}$ BAgakekx $4$ rUpAyina $\dfrac{1}{3}$ BAga karxyavAdare, $7$ rUpAyina $\dfrac{5}{6}$ BAgakekx eSuTx maNagaLu heVLu?\\
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+5\times\dfrac{7}{8}=\dfrac{35}{8} & \text{maNa} &\qq\qq \text{rU.} & \text{rU.} & \text{maNa.}\\[10pt]
+
+4 \times\dfrac{1}{3}=\dfrac{4}{3} & \text{rUpAyi} &\qq\qq \dfrac{4}{3} : & \dfrac{35}{6} :: & \dfrac{35}{8}\\[10pt]
+
+7 \times\dfrac{5}{6}=\dfrac{35}{6} & \text{rUpAyi}\\
+\end{tabular}
+
+\begin{center}
+Agalu,\\
+
+\flushright 
+$\dfrac{35}{\overset{\displaystyle{6}}{2}}\times\dfrac{35}{8}\times\dfrac{3}{4}=\dfrac{1125}{64}$\\[3pt]
+$=17$ ma. $23\dfrac{1}{8}$ sheVru, utatxravu.
+\end{center}
+
+\item $4$ manuSayxru oMdu kelasavanunx $12$ divasagaLalilx mADutAtxre, adeV parxkAra A kelasavu $8$ divasagaLalilx pUreYsa beVkAdare, eSuTx manuSayxrira beVku?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{di}. & \text{di}. & \text{manuSayxru}\\[3pt]
+8 : & 12 :: & 4\\[3pt]
+& 6  \\[3pt]
+\end{tabular}
+
+\qq\quad $\dfrac{12\times4}{\overset{\displaystyle{2}}{8}}=6 $ \text{ manuSayxru utatxravu.}
+
+\item $4\dfrac{1}{4}$ rUpAyige $15\dfrac{3}{4}$ maNa belalxvAdare, $31\dfrac{1}{2}$ maNa belalxkekx eSuTx rUpAyi karxyavAguvadu?
+
+
+\begin{minipage}[t]{7cm}
+\begin{tabular}{>{$}c<{$}>{$}c<{$}}
+\text{idanunx dashamAMshada riVtiya meVle mADu?}\\[10pt]
+ 4\dfrac{1}{4}=4.25 & \text{rU.}\\[10pt]
+ 15\dfrac{3}{4}=15.75 & \text{maNa.}\\[10pt]
+ 31\dfrac{1}{2}=31.5 & \text{maNa}.\\[10pt]
+\cline{1-2}
+\end{tabular}\\
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+15.75) & 133.875 & (85\; \text{rupAyi}\\
+ & 126 00 & \qq \text{utatxra.}\\
+\cline{2-2}
+ & \qq 7875 &\\
+ & \qq 7875 &\\
+\cline{2-2}
+ & \qq 0000&
+\end{tabular}
+\end{minipage}\quad 
+\begin{minipage}[t]{6cm}
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+  \text{maNa}, & \text{maNa}. & \text{rU}.\\
+  15.75: & 31.5 :: & 4.25\\
+& 4.25 &\\
+\cline{2-2}
+& \quad 1575 &\\
+& \quad 630 \\
+& 1260\\
+\cline{2-2}
+& \quad133.875\\
+\end{tabular}
+\end{minipage}\\
+
+kelavu leKaKxgaLanunx hiVge dashAMsha riVtiyiMda mADoVNadariMda dashAMsha gaNitada tiLavaLikeyu canAnxgi Agutatxde.
+ 
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{athavA maNa.} & \text{maNa.} & \text{rU.}\\[10pt]
+\qq \dfrac{63}{4} : & \quad \dfrac{63}{2} :: & \quad \dfrac{17}{4} & 
+=\dfrac{17}{4}  \times \dfrac{63}{2}=\dfrac{4}{63} \times \dfrac{17}{2}\\[10pt]
+&&&  =8\dfrac{1}{2} \text{rU. utatxravu.}
+\end{tabular}
+\end{enumerate}
+
+\begin{center}
+{\bf\large 73neV aBayx udAharaNe.}\\
+\vskip .3cm
+{\bf sulaBavAda leKaKxgaLU.}
+\end{center}
+
+\begin{enumerate}[\rm (1)]
+\item $8$ maLakekx $12$ rUpAyi karxyavAdare, $34$ maLakekx eSuTx rUpAyi?
+
+\item $12$ gajakekx $18$ rUpAyi karxyavAdare, $22$ gajakekx?
+
+\item $7$ yADuR banAtige $24\dfrac{1}{2}$ rUpAyi karxyavAdare, $42$ yADiRge eSuTx karxya?
+
+\item $34$ maLakekx $51$ rUpAyi karxyavAdare, $12$ rUpAyige eSuTx maLa?
+
+\item $22$ gajakekx $33$ rUpAyi karxyavAdare, $18$ rUpAyige eSuTx gaja?
+
+\item $42$ yADiRge $147$ rUpAyi karxyavAdare, $24\dfrac{1}{2}$ rUpAyige eSuTx yADuR?
+
+\item $12$ rUpAyige $8$ maLavAdare, $34$ maLakekx eSuTx karxya?
+
+\item $18$ rUpAyige $12$ gajavAdare, $22$ gajakekx eSuTx karxya?
+
+\item $7$ yADiRge $24\dfrac{1}{2}$ rUpAyi karxyavAdare, $147$ rUpAyige eSuTx yADfR?
+
+\item $5$ maNakekx $12\dfrac{1}{2}$ rUpAyi karxyavAdare, $50$ rUpAyige eSuTx maNa?
+
+\item $20$ maNakekx $50$ rUpAyi karxyavAdare, $12\dfrac{1}{2}$ rUpAyige eSuTx maNa?
+
+\item $1$ tiMgaLige $18\dfrac{3}{4}$ rUpAyi saMbaLavAdare, $7$ divasakekx eSuTx?
+
+\item $7$ divasakekx $4$ rUpAyi $6$ ANe kUliyAdare, $1$ tiMgaLige eSATxyitu?
+
+\item $13$ divasakekx $29\dfrac{1}{4}$ rUpAyi saMpAdisidare, $5$ divasada saMpAdane eSuTx?
+
+\item $5$ divasakekx $11\dfrac{1}{4}$ ANe kUli sikikxdare, $13$ divasakekx eSuTx kUli?
+
+\item $7$ divasakekx $35$ rUpAyi $14$ ANe saMbaLavAdare, $28$ divasakekx eSuTx rU. saMbaLa?
+
+\item $28$ divasada tiMgaLige $143$ rUpAyi $8$ ANeyAdare, $13$ divasakekx?
+
+\item $4$ maNakekx $67\dfrac{1}{2}$ rUpAyi karxyavAdare, $30$ sheVrige eSuTx karxya?
+
+\item $3$ dhaDiyakekx $16$ rUpAyi $14$ ANe karxyavAdare, $4$ maNakekx eSuTx karxya?
+
+\item $1$ KaMDagakekx $11$ rUpAyi $14$ ANe karxyavAdare, $3$ koLagakekx eSuTx karxya?
+
+\item $3$ koLagakekx $1$ rUpAyi $12$ ANe $6$ kAsu karxyavAdare, $16$ koLagakekx eSuTx karxyavu?
+
+\item $5$ varahA tUka BaMgArakekx $22$ rUpAyi $10$ ANe $6$ kAsu karxyavAdare, $1$ varahA tUkakekx eSuTx karxya?
+
+\item $3$ varahA tUkakekx $13$ rUpAyi $9$ ANe $6$ kAsu karxyavAdare, $4\dfrac{1}{2}$ rUpAyi tUkakekx eSuTx karxya?
+
+\item $5$ pAMDf BAravuLaLx oMdu beLiLxV pAterxya karxyavu $7$ pAMDf $5$ SililxMgf $10$ pe\char'366sf karxyavAdare, $8$ pAMDf $5$ au\char'366sf $15$ peninxveVTf BAravuLaLx pAterxya karxya eSATxgutatxde?
+
+\item $14$ PAMDige $30$ rUpAyi karxyavAdare, $56$ PAMDige eSuTx karxya?
+
+\item $72$ maLakekx $64$ rUpAyi karxyavAdare, $90$ yADiRge eSuTx karxya?
+
+\item $16$ rUpAyige $18$ maNagaLAdare, $480$ rUpAyige eSuTx maNa?
+
+\item $34$ gAla\char'366  dArxkASx rasakekx $510$ rUpAyi karxyavAdare, $170$ rUpAyige eSuTx gAla\char'366?
+
+\item $36$ ekarege $540$ rUpAyi karxyavAdare, $25$ ekare $12$ guMTege eSuTx?
+
+\item $15$ janakekx $1$ kelasakekx $105$ divasa beVkAdare, $95$ janagaLige adeV kelasakekx eSuTx divasabeVku?
+\end{enumerate}
+
+\begin{center}
+{\bf\large 74neV aBayx udAharaNe.}\\
+\vskip .3cm
+{\bf savxlapx sulaBavAda leKaKxgaLU.}
+\end{center}
+
+\begin{enumerate}[\rm (1)]
+\item $3$ tAsugaLalilx $4$ haradAri naDadare, $12$ tAsugaLalilx eSuTx naDadAnu?
+
+\item $100$ rUpAyige $4\dfrac{1}{2}$ rUpAyi baDiDxyAdare, $428$ rUpAyi $310$ ANege eSuTx baDiDx?
+
+\item $27\dfrac{1}{2}$ yADiRge $19$ rUpAyi $14$ ANe $6$ peY karxyavAdare, $196$ yADiRge eSuTx karxya?
+
+\item $18$ janaru $28$ divasagaLalilx oMdu kelasavanunx mADidare, adeV kelasavanunx $14$ divasadalilx pUreYsa beVkAdare, eSuTx janagaLira beVku?
+
+\item $1$ divasakekx $9$ haradAri meVrige naDiyutAtx tananx sathxLakekx $60$ divasagaLige talapidare, adeV parxyANavanunx parxti divasavU $12$ meYlf parxkArakekx naDadukoMDu hoVdare, eSuTx divasa beVku?
+
+\item obabxna $5$ hejejxgaLalilx $12$ yADfR $1$ PoTf $6$ iMcf BUmiyAdare, avana $1420$ hejejxgaLalilx eSuTx yADuR BUmiyAguvadu?
+
+\item $9$ tiMgaLige $275$ rUpAyina baDiDx shikikxdare, $3850$ rUpAyina baDiDx eSuTx divasakekx shikukxvadu?
+
+\item obobxbabxnige parxti divasavu $2$ pAvina parxkArakekx koTaTxre, $5$ tiMgaLigAguvaSuTx kALugaLa saMgarxha virutatxde, adeV dhAnayxvu $8$ tiMgaLa varigU poreYsuva hAge parxti divasavU obobxbabxnige eSuTx pAvina parxkArakekx koDa beVku?
+
+\item $50$ rUpAyige $4$ KaMDi goVdhiya dhAraNeyiruvAgeyx $1$ roTiTxge $4$ ANe $4$ peY karxya bidadxre, goVdhiya karxyadalilx $20$ rUpAyi kaDimeyAdare, $1$ roTiTxge eSuTx karxya biVLuvadu?,
+
+\item $10$ rUpAyi maja\char'371\char'301riV koTaTxre $7$ maNa BAravanunx $63$ meYlf tegadukoMDu hoVgutAtxne. Adare, adeV maja\char'371\char'301rige $21$ maNa BAravanunx eSuTx meYlf hotutxkoMDu hoVga beVku?
+
+\item $\dfrac{5}{7}$ gaja kelasavanunx $\dfrac{5}{6}$ divasadalilx mADidare, $\dfrac{1}{8}$ divasadalilx eSuTx kelasavanunx mADAyxru?
+
+\item $1$ moLa $\dfrac{3}{8}$ra karxyavu $1$ rUpAyina $\dfrac{2}{5}$ Adare, $1$ moLada $\dfrac{5}{16}$ra karxyaveSuTx?
+
+\item $\dfrac{3}{9}$ GaLigeyx, $13$ meYlfna $\dfrac{5}{6}$ BAgavanunx naDadare, $9$ didasakekx eSuTx meYlfgaLanunx naDidAnu? 
+
+\item $3\dfrac{1}{2}$ra $\dfrac{5}{6}$ maNa tupapxkekx $5\dfrac{3}{4}$ra $\dfrac{2}{3}$ rUpAyi karxyavAdare, $16$ rUpAyina $\dfrac{3}{4}$kekx eSuTx maNavu?
+
+\item $700$ meYlf parxyANavanunx $20$ divasada $\dfrac{2}{3}$ralilx hoVgi baMdare, $15$ rU. $15$ ANeya $\dfrac{2}{3}$ inAM koDa takakx kulxpatxvidadxre, avanu $25$ divasada $\dfrac{2}{5}$ralilx baMdare, eSuTx rU. koDa beVku?
+
+\item oMdu haDagada $\dfrac{3}{16}$ BAgakekx $12000$ rUpAyi karxyavAdare, adeV haDagada $\dfrac{2}{5}$ BAgakekx eSuTx karxya?
+
+\item $348 \dfrac{3}{5}$ cadara gaja kelasakekx $1250$ rUpAyi KacARgidadxre, dara gajakekx eSuTx KacuR?
+
+\item $10\dfrac{1}{8}$ maNakekx $25\dfrac{1}{2}$ rUpAyi karxyavAdare, $1$ KaMDi $2\dfrac{3}{4}$ maNa $5\dfrac{1}{3}$ sheVrige eSuTx?
+
+\item $100$ rUpAyige $1$ tiMgaLige $8\dfrac{1}{2}$ ANe baDidxyAdare, $525$ rUpAyi $8$ ANege $9\dfrac{3}{4}$ tiMgaLige eSuTx baDiDx?
+
+\item $1$ KaMDi $3$ MaNa $5$ sheVru kaDelxge $27$ rupAyi $10$ ANe $9$ peY karxyavAdare, $221$ rUpAyi $6$ ANege eSuTx kaDelx shikukxvadu?
+
+\item $120$ gaja agalavuLaLx BUmiyu bahaLa udadxkikxrutatxde. adaralilx $1$ cadara guMTeTx aMdare, $121$ gaja agala $121$ gaja udadxdaSuTx tegadukoMLaLx beVkAdare, eSuTx gaja udadxvanunx tegadukoLaLx beVku?
+
+\item $12$ PoTf udadx $15$ PoTf agalavAda $1$ koThaDige gAsuvadakekx jaMKAne beVkAgirutatxde. Adare, A jaMKAneyu $3$ PoTf $4$ iMcf agalavAgi bahaLa udadxkekx shikukxtatxde. Adare adaralilx eSuTx udadxvAgi tegadukoMDare A koThaDige sariyAguvadu?
+\end{enumerate}
+
+\begin{center}
+{\bf\large 75neV aBayx udAharaNe.}\\
+\vskip .3cm
+{\bf salapx kaSaTxvAda parxshenxgaLU.}
+\end{center}
+
+\begin{enumerate}[\rm(1)]
+\item kelavu janagaLu sheVri $1$ kelasavanunx $75$ divasagaLalilx mADutAtxre. Adare, inUnx $15$ janagaLu hecAcxgi sheVri $50$ divasagaLalilx mADidaru. Adare modalina janagaLeSuTx?
+
+manuSayx.
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+0 & 75\; \text{di.}\\
+15 & 50\; \text {di.}\\
+\cline{2-2}
+& 25\; \text {di.}
+\end{tabular}
+\right \{
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{divasakekx.} & \text{di.} &  \text{manu}\\
+25 & 75 & 15\\
+&&&15\times3=45 \text{manuSayxru utatxravu.}
+\end{tabular}
+$
+
+idaralilx $15$ janagaLu hecAcxdadadxriMda $25$ divasa muMcitavAgi A kelasa mugidirutetx. AdadxdariMda $25$ divasakekx $15$ manusayxru parxmANa shikikxda hAgAyitu. adara AdhAradiMda melakxMDa parxkArakekx modalina manuSayxranunx kaMDu hiDiya beVku.
+
+\item $1$ kelasavanunx (a) aMbuvanu $8$ divasadalilx mADutAtxne. adeV kelasavanunx (bi) eMbuvanu $15$ divasadalilx mADutAtxne. Adare, avaribabxrU sheVri mADidare, eSuTx divasagaLalilx mADuvaru.
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{divasakekx.} & \text{kelasavAdare.} & \text{divasakekx}\\[10pt]
+8 : & 1 :: & 1=\dfrac{1}{8} & \text{kelasavanunx (a) eMbuvadanu $1$ divasakekx mADutAtxne.}\\[10pt]
+15 : & 1 :: & 1=\dfrac{1}{15} & \text{kelasavanunx (bi) eMbuvadanu $1$ divasakekx mADutAtxne.}\\
+\end{tabular}\\[10pt]
+
+Agalu,\quad  $\dfrac{1}{8}+\dfrac{1}{15}=\dfrac{15+8}{120}=\dfrac{23}{120}$\; kelasavanunx avaribabxrU sheVri $1$ divasakekx mADutAtxre.\\[10pt]
+
+\qq Adare pUrA kelasakekx $\dfrac{120}{23}=5\dfrac{5}{23}$\; divasa utatxravu.
+
+ideV parxkArakekx $3, 4, 5, 6$ janagaLigAdarU mADa bahudu. matutx oMdu kAraMjige eSATxdarU bacacxlugaLidadxvu, avugaLu eSeTxSuTx hotitxgAdarU tuMbutitxdadxvu eSATxdarU bacacxlugaLidadxvu, avugaLu eSeTxSuTx hotitxgAdarU tuMbutitxdadxvu. A elAlx bacacxlagaLanUnx Eka kAladalilx biTaTxre, eSoTxtitxge tubiVteMba leKaKxgaLu sahA Agutatxve.
+
+\item {\rm A B} eMbuvaribabxrU $6$ divasagaLalilx $8$ ANegaLanUnx {\rm A C} eMbuvaru $4$ divasagaLalilx $12$ duDuDxgaLanUnx {\rm B C} eMbuvaru $5$ divasagaLalilx $8$ ANe $4$ kAsugaLanunx saMpAdisutAtxre. Adare, divasakekx obobxbabxra parxteyxVka saMpAdanegaLeSuTx?
+
+\begin{center}
+\qq\; di.  ANe, \quad di. \quad ANe.\\
+\begin{tabular}{>{$}l<{$}>{$}l<{$}}
+{\rm A + B} = 6 : 8 & :: 1 = 1 -4\\
+{\rm A + B} = 6 : 8 & :: 1 = 1 -0\\
+\end{tabular}\\[3pt]
+\quad\; A. \quad kA\\
+\begin{tabular}{>{$}l<{$}>{$}l<{$}}
+{\rm B + C} = 5 : 8 & 4 :: 1 = 1-8
+\end{tabular}
+\end{center}
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}}
+\text {Agalu}, &   \qq$--------------------$\\
+& \qq\qq \text{A. kA.}\\
+& \qq{\rm A + B} = 1-4\\
+&  \qq{\rm A + C} = 1-0\\
+&  \quad$-----------------------$\\
+& 2{\rm A+B+C}=2-4\\
+&\qq {\rm B+C}=1-8\\
+\text{hoVgalAgi} & \qq $--------------------$\\
+\quad \text{sheVSavu} & 2{\rm A} \quad =0-8\\
+& \quad\; {\rm A} \quad =4-\text{peY.}\\
+& $---------------------$
+\end{tabular}
+\right\}
+\begin{tabular}{>{$}c<{$}>{$}c<{$}}
+\text {matutx}, &  $--------------------$\\
+& \qq\;\text{A. peY.}\\
+& {\rm A + C} = 1\- 0\\
+& {\rm A\quad\; } = 0-4\\
+\text{bAki} & $--------------------$\\
+\text{matutx}& \dfrac{{\rm C \qq=8\text{peY.}}}{\qq\qq \text{A. peY.}}\\
+& {\overset{\displaystyle{{\rm B + C}= 1-8}}{\quad\;{\rm C}= \quad\;8}}\\
+\text{bAki} &$--------\;------$\\
+& {\rm B}=\quad\; 1\text{ANe.}\\
+\end{tabular}
+$
+
+Aga utatxravu,
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+{\rm A} & \text{eMbuvana\; saMpAdaneyu} & 1 & \text{divasakekx} & 4 &  \text{peY.}\\
+{\rm B}& \text{eMbuvana \;saMpAdaneya} & 1 &     '' &   1 &  \text{ANe.}\\
+{\rm C} &  \text{eMbuvana\; saMpAdayu} &  1  &   '' &   8 & \text{peY.}
+\end{tabular}
+\right \} \text{utatxravu.}
+$
+
+iMthA leKaKxgaLelAlx ideV riVtiyAgi mADabeVku.
+
+\item (a) eMbuvanu oMdu kelasada $\dfrac{5}{9}$ BAgavanunx $10$ divasagaLalilx mADi, A meVle (ba) eMbuvananunx sahAyakekx karadukoMDu elAlx kelasavanUnx $3$ divasadalilx pUreYsidanu. Adare, A kelasavanunx avaribabxru sheVri, athavA obobxbabxreV mADuvadakekx eSuTx divasagaLu beVku?
+
+\qq \begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+&& \text{di.} & \text{ke.} \\[5pt]
+&\dfrac{5}{9}\; \text{kelasakekx}\; : &\quad \dfrac{10}{1}\; ::& 1=\dfrac{90}{5}=  18 \text{divasa (a) eMbuvanu}\\
+ &&& \qq\quad\quad1\; \text{kelasavanunx obabxneV maDuva}\\ 
+&&& \qq\quad\quad\text{dakekx Aguva divasagaLU.}
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{uLida kelasa}\; \dfrac{4}{9}\; \text{a, ba ivaribabxrU} & \text{di}.& \text{ke}.\\
+\text{mADuvadakekx} & : 3 :: & 1=\dfrac{27}{4}=6\dfrac{3}{4}\quad  \text{divasa (a, ba) }\\ 
+&&\qq\quad \text{ivaribabxrU sheVri $1$\;kelasa}\\
+&& \qq\quad \text{vanunx mADuvadakekx}\\ 
+&&\qq\quad \text{beVkAda divasagaLU}.
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{Agalu}, & 18\; \text{divasakekx (a) eMbuvanu mADutAtxne.}\\
+& 6\tfrac{3}{4}\; \text{divasakekx (a, ba) eMbuvaru sheVri mA}\\
+& \qq\text{DutAtxraSeTx. idariMda avara parxteyxV}\\
+& \qq\text{kavAgi mADa takakx kelasavanunx kaM}\\
+&\text{Du hiDiya beVku.}
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}>{$}c<{$}}
+\text{hAyxgeMdare,} & \text{di.} & \text{ke.} & \text{di.}\\
+& 18 &  :\quad 1 \quad:: & 1=\dfrac{4}{27} & \text{kelasa a eMbuvaribabxrU sheVri mADa takakxdudx.}\\[15pt] 
+
+& 6\dfrac{3}{4} &:\quad  1 \quad:: & 1=\dfrac{4}{27} & \text{kelasa a, ba eMbuvaribabxrU sheVri mADa takakxdudx.} 
+\end{tabular}\\[15pt]
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{Agalu}, & \dfrac{4}{27}-\dfrac{1}{18}=\dfrac{8-3}{54}=\dfrac{5}{54}&\text{kelasavu ba eMbuvanobabxneV}\, 1\, \text{divasadalilx mADa takakxdAdxyitu.}\\[15pt]
+& & \text{Adare, pUrA kelasakekx}\quad \dfrac{54}{5}=10\dfrac{4}{5}\quad \text{divasavu.}\\[15pt]
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}l<{$}}
+& \quad\text{utatxravu.} \\[5pt]
+\text{a}& \text{eMbuvanige\; $18$\; divasa.}\\[2pt]
+\text{ba} & \text{eMbuvanige\; $10\tfrac{4}{5}$\; divasa.}\\[2pt]
+\text{a},  & \text{ba eMbuvanige\; $6\tfrac{3}{4}$ divasa.}\\[2pt]
+\end{tabular}
+\item a, ba eMbuvaribabxrU oMdu kAvalanunx gutitxgeyx tegadukoMDaru. adu $6$ kuduregaLige $30$ divasada meVvAgiyU, $8$ hasugaLige $72$ divasagaLa meVvAgiyU itutx. Aga avaribabxrU sheVri $1$ kudureyanUnx $1$ hasuvanunx biTuTxre, eSuTx divasagaLa meVvAga bahudu?
+
+$6$ kuduregaLige : $30$ divasa :: $1$ kudurege=$180$ divasa.
+
+$8$ hasuvige \quad: $72$ divasa :: $1$ hasuvige =$576$ divasa.
+
+Agalu, $1$ kudaregU $1$ hasuvigU eSeTxMdu noVDa beVku. hAyxgeMdare,
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}>{$}l<{$}}
+\text{di.}  & \text{kAvalu.} & \text{di.} \\[10pt]
+180 &:\quad  1 \quad:: & 1 = \tfrac{1}{180} & 1\; \text{kudure}\; 1\; \text{divasakekx meVyi takakxdudx.}\\[10pt]
+
+576 & :\quad  1 \quad:: & 1 = \tfrac{1}{576} & 1\; \text{hasu}\; 1\; \text{divasakekx meVyi takakx BAgavu.}
+\end{tabular}\\[10pt]
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{Iga} & \dfrac{1}{180}+\dfrac{1}{576}=\dfrac{16+5}{2880}=\dfrac{21}{2880}& 1\; \text{divasakekx}\; 1\; \text{kudure}\\
+&& \text{yU\; $1$\; hasuvU saha}\\ 
+&&\text{meVyi takakx BAgavu.}\\[5pt]
+& \text{Aga pUrA meVyuvadakekx}\; \tfrac{2880}{21}= & 137\tfrac{1}{7}\; \text{divasa utatxravu.}
+\end{tabular}
+
+\item $12$ manuSayxru $30$ divasagaLalilx $120$ gaja BUmiyanunx AgiyutAtxre matutx $18$ manuSayxru $3$ divasadalilx $54$ gaja kelasavanunx mADutAtxre. Adare, avarelAlx sheVri $462$ gaja kelasavanunx eSuTx divasagaLalilx mugishAyxru, heVLu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}>{$}l<{$}>{$}l<{$}}
+\text{Di.} & \text{gaja} & \text{di.}\\
+30 & :\quad 120 \quad:: & 1= & \;4\; \text{gaja} & 12\; \text{manuSayxru mADa takakxdudx.}\\ 
+\;\,3& :\quad  \;\;54 \quad:: & 1= & 18\; \text{gaja} & 18\; \text{manuSayxru mADa takakxdudx.}\\[-7pt]
+& & & $--------$ & $-----$ \\[-7pt]
+& & & 22\; \text{gaja} &30\; \text{manuSayxru mADa takakxdAdxyitu.} 
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{Agalu}, & \text{gajakekx} & \text{di}. & \text{gajakekx}\\
+& 22 : & 1 :: & 442 & =21\; \text{divasa utatxravu.}
+\end{tabular}
+
+\item obabxnu tananx $6$ divasada pArxpitxyanunx $8$ divasadalilx KacuR mADutAtx baralAgi, $128$ divasagaLalilx $1440$ rUpAyigaLu shilukx uLadavu. Agalu avana pArxpitx, matutx KacuR eSuTx?
+
+idaralilx $6$ divasakekx $1$ rUpAyi pArxpitx yeMtalU $8$ divasakekx $1$ rUpAyi KacuR yeMtalU iTuTx koLoLxVNa.
+
+\quad \begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}>{$}l<{$}}
+\text{Agalu}, & \text{di} & \text{pArxpitx}. & \text{di.}\\[8pt]
+& 6 & :\quad  1 \quad:: & 128 & =\tfrac{128}{6}\; \text{pArxpitxyAyitu.}\\[10pt]
+& 8 & :\quad  1 \quad:: & 128 & =\tfrac{128}{8}\; \text{KacARyitu.}
+\end{tabular}\\[10pt]
+
+\begin{tabular}{>{$}l<{$}>{$}l<{$}>{$}l<{$}>{$}l<{$}>{$}l<{$}>{$}l<{$}}
+\text{pArxpitxyalilx KacaRnunx} & 128 & 128 & 512-384 & 128\\[-7pt] 
+&  $-----$ \;- & $-----$ \;= & $--------------$ \;= & $-----$ & \text{sheVSavu uLiVtu}.\\[-7pt]
+ \qq\quad\; \text{kaLadare} & \quad 6 & \quad 8 & \quad\;\; 24 &  \;24
+\end{tabular}\\[7pt]
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{saMgarxhakekx} & \text{pApitx} & \text{rUpAyige}\\[10pt]
+\tfrac{128}{4} & :\quad \tfrac{1}{1} \quad:: & \tfrac{1440}{1}  = 3\times1\times90=270\; \text{rUpAyigaLu}\\
+&&6 \text{divasada pArxpitxyu matutx} 8 \text{divasada KacuR, utatxravu.}\\
+\end{tabular}
+
+\item $10$ manuSayxru $12$ gaja kelasavanunx $16$ avarinalilx mADutAtxre. $12$ manuSayxru $9$ gaja kelasavanunx $5$ avarinalilx mADutAtxre. Adare, $100$ gaja kelasavanunx avaribabxrU sheVri eSuTx avarinalilx mADutAtxre, heVLu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{avarfge} & \text{gaja} & \text{avarfge} \\[10pt]
+16 &:\quad 12 \quad:: & 1=\tfrac{3}{4} & \text{gaja kelasa}\; 10\; \text{manuSayxru mADa takakxdudx}.\\[10pt]
+15 & :\quad  \;\;9 \quad:: & 1=\tfrac{3}{5} & \text{gaja kelasa}\; 12\; \text{manuSayxru mADa takakxdudx}.\\[10pt]
+\end{tabular}
+
+\;\begin{tabular}{>{$}c<{$}>{$}c<{$}}
+\dfrac{3}{4}+\dfrac{3}{5}=\dfrac{15+12}{20}=\dfrac{27}{20} & \text{gaja kelasa elAlx manuSayxru sheVri}\\ 
+& 1\; \text{avarfnalilx mADa takakx kelasavu.}
+\end{tabular}\\[10pt]
+
+\quad \begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{ke.} & \text{avarf} & \text{gaja kelasakekx} \\[10pt]
+\dfrac{27}{20} &:\quad \dfrac{1}{1} \quad:: & \dfrac{100}{1}=74\dfrac{2}{27} & \text{avarf utatxravu.}\\
+\end{tabular}\\[10pt]
+
+\item obabxnu holavanunx kuyuvadakekx $1$ tiMgaLige $60$ manuSayxranunx gotutx mADidadxnu. avaru $10$ divasa kelasavanunx mADida meVle inUnx $40$ manuSayxranunx hecAcxgi iTuTxkoMDanu. Aga avanu tananx holada kelasavanunx eSuTx divasakekx pUreYsira bahudu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{di.} & \text{kelasa} & \text{di.} \\[5pt]
+30 : & 1 :: & 10 & = \tfrac{1}{3}\; \text{kelasavanunx mADidadxru}\\[10pt]
+
+\text{kelasakekx} & \text{divasa} & \text{bAki iruva} \\[5pt]
+\tfrac{1}{3} & :\quad   \tfrac{10}{1} \quad:: & \quad \tfrac{2}{3}\; \text{kelasakekx} & =20\; \text{divasa idu} 60\; \text{manuSayxru} \\
+& & & \text{mADa takakx divasavu.}\\[10pt]
+
+\text{manuSayxrige.} & \text{divasa} & \text{manuSayxrige.} \\[5pt]
+60 &:\quad  20 \quad:: & \quad 100  & = 
+12\; \text{kelasavanunx mADidadxru}\\[10pt]
+\end{tabular}
+
+\item obabxnu $16$ divasakekx eSoTxV rUpAyigaLanunx saMpAdisutAtxne. matutx $12$ divasakekx $8$ rUpAyigaLanunx KacuR mADutAtxne. ideV riVtiyAgi $2$ vaSaR naDisi noVDalAgi, $2000$ rUpAyi shilukx uLaditutx. Adare avanu $16$ divasakekx eSuTx rUpAyi shilukx uLaditutx. Adare avanu $16$ divasakekx eSuTx rUpAyigaLanunx saMpAdisutitxra bahudu heVLu?
+
+idaralilx $2$ vaSaRda=$720$ divasagaLU.
+
+\begin{tabular}{>{$}l<{$}>{$}c<{$}>{$}l<{$}}
+\text{di.} & \text{rU. KacuR} & \text{di.}\\[5pt]
+12  \quad:&  8\qq  :: &720=480 \text{rUpAyi KacuR}
+\end{tabular}
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{di.} & \text{rU. pArxpitx} & \text{di.} & \text{rU. utatxra}\\[5pt]
+720 \quad: & 2480 \quad:: & 16  & =55\tfrac{1}{9}\\
+\end{tabular}
+\right\}
+\begin{tabular}{>{$}l<{$}}
+2000\; +\; 480=\\
+2480\; \text{rUpAyi}\\
+2\; \text{vaSaRda pArxpitxyAyitu.}
+\end{tabular}
+$
+
+\item obabx vAyxpAriyu $3$ rUpAyige $4$ maNadaMte tegadukoMDu $4$ rUpAyige eSoTxV maNada hAge mAridanu. I meVrige $900$ rUpAyigaLa vAyxpAravanunx mADalAgi $700$ rUpAyigaLu lABa shikikxdavu. Agalu avanu $4$ rUpAyige eSuTx maNagaLa hAge mArira bahudu.
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{rUpAyige} & \text{maNa} & \text{rUpAyige} & \text{maNagaLu tegadu koMDadudx.} \\[5pt]
+3 &:\quad  4 \quad:: & 900 & =1200\\
+\end{tabular}\\
+
+Agalu $900 +$ naPe $700=1600$ rUpAyigaLige, A tegadukoMDaMthA $1200$ maNagaLanunx mArida hAgAyitu. AdadxriMda,
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{rUpAyige maNa.}  && \text{rU.} & \text{maNa.}\\[5pt]
+1600 : 1200 &:: & 4 = & 3 & \text{utatxravu}.\\
+\end{tabular}\\[5pt]
+
+\item $1$ etatxnUnx matUtx $5$ rUpAyigaLanUnx koTaTxre, $1$ kudare karxyavAgutatxde. matutx $8$ etutxgaLanUnx $4$ rUpAyigaLanUnx koTaTxre, $6$ kudare karxyavAgutatxde. Adare $1$ etatxnUnx $1$ kudareyanUnx koTaTxre, eSuTx rUpAyigaLu shikakx bahudu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{kudarege} && \text{etutx.} & \text{rU.} && \text{kudarege.} && \text{etutx} & \text{rUpAyigaLadavu.}\\[5pt]
+1 & : & 1 & 5 & :: & 6 & = & 6 & 30\\[5pt]
+& & &\text{matutx} &  6 & \text{kudare}& = & 8 &  \;4\;  \text{iruvadadxriMda}\\ 
+&&&&&&&& \text{uTAguva vetAyxsavu.}
+\end{tabular}
+
+\begin{center}
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}>{$}c<{$}>{$}c<{$}}& 2\; \text{etutx}&&26& \text{rUpAyi.}\\
+& 1\; \text{etitxna}&=&13 & \text{rUpAyi.}\\
+\cline{2-4}
+\text{matutx} & 13+5 & =& 18 & \text{rUpAyi}\; 1\; \text{kudare karxyavu.}\\ 
+&& \multicolumn{4}{c}{\text{oTuTx} $31$ \text{rUpAyi utatxravu.}}
+\end{tabular}
+\end{center}
+
+\item nAyi matutx mola ivugaLa madhayxdalilx $50$ yADfR aMtara virutatxde. Adare nAyiyu $1$ minUyxTfnalilx $8$ yADfRnUnx molavu $1$ minUTfnalilx $6$ yADfRnUnx naDiyatakakxvugaLAgiyU, oMdanonxMdu hiDiyuvadakAkxgiyU horaTare tiVvarxgamanavuLaLx nAyige molavu eSuTx hotitxge shikukxvadu? matutx eSuTx yADfR dUradalilx shikukxvadu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+1\; \text{minUyxTige} & = & 8  & \text{yADfR nAyi naDiyutatxde.}\\
+1\; \text{minUyxTige} & & 6  & \text{yADfR molavu naDiyutatxde.}\\
+\cline{1-3}
+1\; \text{minUyxTige} & & 2  & \text{yADfR vetAyxsa uMTAda hAgAyitu.}
+\end{tabular}
+
+\qq\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{Agalu,} & \text{yADfR vetAyxsakekx.} & \text{yADfR nAyi naDiyutatxde.}\\[3pt]
+& \quad 2 \qq\quad: & \quad8 \qq\quad::\\[3pt]
+& \text{yADfRvetAyxsakekx.} & \text{yADfR dUradalilx hiDiVtu.}\\[3pt]
+& 50 & =200
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+& \text{yADiRge} & \text{minUyxTf} & \text{yADiRge}\\[3pt]
+\text{athavA} & 8\quad : & 1 \quad :: & 200=25\; \text{minUyxTiya hotitxnalilx hiDiVtu.}\\
+\end{tabular}
+
+\item $2$ rUpAyige $3$ maNa belalxvU $3$ rUpAyige $2$ maNa sakakxreyU mArutitxralAgi, obabxnu $99$ rUpAgaLanunx koTuTx A eraDanUnx kUDA tegadukoLaLx beVkeMtalU, avugaLalilx belalxda eraDaSuTx sakakxre ira beVkeMtalU apeVkiSxsutAtxne. hAgAdare, avanu yAvAyxvadanunx eSeTxSuTx tegadu koLaLx beVku?
+
+\begin{equation*}
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{maNa belalxkekx}& \text{rU.} & \text{maNakekx}\\
+3 & :\quad  2 \quad:: & 1=\tfrac{2}{3}\; \text{rU.} \\
+\text{maNa sakakxrige}& \text{rU.} & \text{maNakekx}\\
+2   &:\quad 3 \quad:: & 2=3\; \text{rU.} \\
+\end{tabular}
+\right \}
+\text{oTuTx}\; 3\tfrac{2}{3}\; \text{rUpAyigaLAdavu.}
+\end{equation*}
+
+\begin{equation*}
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+& \text{rUpAyige}& \text{maNa belAlx} & \text{rU.}\\
+\text{Agalu,} &\quad 3\tfrac{2}{3}\qq : & \quad1\qq :: & 99=27\; \text{maNa belalxvu,} \\
+& \text{rU.ge}& \text{maNa sakakxre} & \text{rU.ge}\\
+& \quad3\tfrac{2}{3}\qq : &\quad 2\qq  :: & 99=54\; \text{maNa sakakxre} \\
+\end{tabular}
+\right \}
+\text{utatxravu.}
+\end{equation*}
+
+\item maNa $1$ kekx $2$ rUpAyi $12$ ANeya parxkArakekx tegadukoMDu, maNa $1$ kekx $3$ rU. $5$ ANe $4$ peY parxkArakekx mAridare, sheVkaDeV eSuTx lABa shikukxvadu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+&&\text{rU.} & \text{A.} & \text{peY.}\\
+\text{ililx} & \text{maNa}\; 1\; \text{kekx} & 3 & 5 & 4 & \text{parxkAra mAridudx.}\\
+ & \text{maNa}\; 1\; \text{kekx} & 2 & 12 & 0 & \text{idu avana mUla karxyavu.}\\[1pt]
+\cline{2-5}
+ & \text{maNa}\; 1\; \text{kekx} & 0 &  9 & 4 & \text{idu baMda lABavu.}\\
+\end{tabular}\\
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{hAgAdare}, & \text{rU}. & \text{A.} &  \text{A}, & \text{kA. lABa} & \text{rU}. & \text{rU}. & \text{A.}& \text{peY.}\\[5pt]
+& 2 & \multicolumn{2}{c}{$12 : 9$} & 4 & \multicolumn{2}{c}{:: $100=22$} & 3 & 4\tfrac{8}{11}
+\end{tabular}
+
+\item maNa $1$kekx $5$ rUpAyi $8$ ANe parxkArakekx tegadukoMDa sarakanunx sheVkaDA $5$ rUpAyi $4$ ANegaLa parxkArakekx naSaTxvAgi mAra beVkAyitu. Agalu maNa $1$kekx eSuTx karxya bidadx hAgAyitu?
+
+
+\qq\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+100 & 0 & 0 & \text{mAra takakxdanunx}\\
+\quad5 & 4 & 0 & \text{naSaTxdiMda mAridare,}\\
+\cline{1-3}
+94 & 12 & 0 & \text{iSuTx rUpAyige mArida hAgAyitu.}
+\end{tabular}
+
+\begin{tabular}{>{$}l<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{hAgAdare.}& & & & & & & & \\
+\text{rU.} & \text{rU.} & \text{A} & \text{rU.} & \text{A.} & \text{rU.} & \text{A.} & \text{peY.}\\[-10pt]
+&&&&&&&&\text{utatxravu.}\\
+100 : & 5 & \multicolumn{2}{c}{$8 :: 94$} & 12= & 5 & 3 & 4\tfrac{14}{25}\\[-10pt]
+\end{tabular}\\[10pt]
+
+\item $120$ gaja vasatxrXvanunx $735$ rUpAyige mAridare sheVkaDA $5$ rUpAyi lABa shikukxvadAgiyitutx. Adare gaja $1$ kekx mUla karxyaveSuTx?
+
+ililx vasatxrXvanunx $105$ rUpAyinaMte mAruvadakekx $100$ rUpAyi mUla karxvAda hAgAyitaSeTx.
+
+\qq\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{hAgAdare,} & &&&\\
+& \text{rU.} &\text{rU. karx.} & \text{rU. ge} &  \text{rU. asalu karxya.}\\[2pt]
+& 105 : & 100 & :: 735 & =700\\
+\end{tabular}
+
+\begin{tabular}{>{$}l<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}\text{gajakekx} & \text{rU. karx.} & \text{gajakekx} & \text{rU.} & \text{A.} & \text{peY.} &\\[-6pt]
+&&&&&&\text{karxyavu. utatxravu.}\\[-6pt]
+\multicolumn{2}{c}{$120 : 700 ::$} & \multicolumn{2}{c}{$1 = 5$} & 13 & 4\\
+\end{tabular}\\
+
+\item dara gaja $1$kekx ANe parxkArakekx mAra beVkeMdeNisikoMDare, sheVkaDA $4$ rUpAyi naSaTxvAgutetxMbuvadanunx tiLadu sheVkaDAge $10$ rUpAyi lABa baruva hAge mAra beVkeMdiCeCxYsutAtxne. Agalu avanu dara gajakekx yAva karxyadiMda mAra beVku.
+
+ililx modalaneV karxyada parxkAra $100$ rUpAyi karxyavAguva vasatxrXvanunx $96$ rUpAyige mArida hAgAguvadadxriMda,
+
+\qq\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{rU.} & \text{rU. karxya} & \text{ANege}\\[2pt]
+96\;\text{kekx} : & \multicolumn{2}{c}{$100\quad ::\quad 8$} & =8\tfrac{1}{3}\; \text{ANe karxyavAyitu.}\\
+\end{tabular}\\
+
+$2$neV karxyada parxkAra $100$ rUpAyi karxyavAguva vasatxrXvanunx $110$ rUpAyige koTaTx hAgAguvadadxriMda,
+
+\begin{center}
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{rU.}& \text{rU.}& \text{ANege}& \text{ANe}& \text{peY}\\[-6pt]
+&&&&&\text{utatxravu.}\\[-6pt]
+\multicolumn{2}{c}{$100\; :\; 110\; ::$} & \multicolumn{2}{c}{$8\tfrac{1}{3} = 9$} & 2\\ 
+\end{tabular}\\
+\end{center}
+
+\item akAranigU ikAranigU madhayxdalilx $210$ meYlfgaLuMTu. avaribabxru obabxranonxbabxru noVDa takakxdadxkAkxgi Eka kAladalilx horaTu baruvAgeyx $7$ divasakekx parasapxra saMdhisidaru. Aga noVDalAgi akAranU ikAragiMtalU parxti divasavU $6$ meYlfgaLaMte hecAcxgi naDadu baMdiruvadAgi tiLiya baMtu. Agalu avaribabxrU parxti divasavU parxyANa mADidaMthA meYlfgaLeSeTxSuTx?
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}}
+210\; \text{meYlf muMce idadxdUravu.}\\[5pt]
+\quad\;42\; \text{akAranu hecAcxgi nadada meYlf.}\\
+\end{tabular}
+\right \}
+$
+\begin{tabular}{>{$}l<{$}>{$}l<{$}>{$}l<{$}>{$}c<{$}}
+\text{akAranu.} & & & \\[-3pt]
+\text{di.} & \text{meYlf hecucx} & \text{di.} & \text{meYlf hecAcxgi}\\
+1 : & \quad6\qq ::  &  \multicolumn{2}{c}{$ 7 = 42$\;\text{naDadadudx.}}
+\end{tabular}\\[-8pt]
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}}
+\cline{1-1}
+2)\; 168\; \text{iSuTx} & \text{meYlf avaribabxrU sheVri nadada hAge Ayitu.}\\
+\cline{1-1}\\[1pt]
+\end{tabular}
+
+ \quad $84$ idu obobxbabx naDadaMte tiLakoLoLxVNa. Agalu ivanigiMtalU $42$ meYlf akAranu naDadiruvadadxriMda, Ageyx $84+42=126$ meYlf akAranU, matutx $84$  meYlf ikAranU $7$ divasagaLige naDada hAgAyitu. \quad AdadxriMda,
+
+
+\begin{tabular}{>{$}l<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{di.} & \text{meYlf} & \text{di.} & \text{meYlf}\\
+7 & :\; 84\; :: & 1 & =12\;\text{idu ikAranu dara divasavU naDadadudx.}\\
+7 & : 126 :: & 1 & =18\;\text{idu akAranu dara divasavU naDadadudx.}
+\end{tabular}\\[10pt]
+
+\item obabx haqhasathxnu tanige $12$ rUpAyi saMbaLaviruva kAladalilx $16$ rU pAyigaLanunx KacuR mADuvanu. $18$ rUpAyi saMbaLavAda meVle $10$ rUpAyigaLanunx KacuR mADutAtx baMdanu. hiVge $2$ vaSaRvAda meVle $96$ rUpAyi shilukx uLiVtu. Adare avanu yAvAyxva saMbaLadiMda eSeTxSuTx divasa kelasa mADira bahudu
+
+idaralilx avanu saMpAdisidedxlAlx $18$ rUpAyi saMbaLavAda kAladalilx. AdadxriMda,
+
+
+\begin{tabular}{>{$}c<{$}>{$}l<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{tiMgaLige} & \text{rU.} & \text{saMpAdane} & \text{tiMgaLige} & \text{rU}\\
+1 & : & 8 \quad:: & 24 \quad= & 192\; \text{saMpAdaneyU, idaralilx}\\ 
+&&&& \;\;96\; \text{rUpAyi shilukx uLadadudx.}  \\
+\end{tabular}
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{rU.ge} & \text{tiM} & \text{rU.ge}\\
+12 &: 1 : & 96=8\; \text{tiMgaLu}\\
+&&\qq16\; \text{tiMgaLu}
+\end{tabular}
+\right \}
+\begin{tabular}{>{$}c<{$}>{$}c<{$}}
+96\; \text{rUpAyi sAlakekx vajA}\\
+\text{AgabeVku.}
+\end{tabular}
+$
+
+\item $480$ maNa niVru tuMbuvaMthA oMdu pAterxyuMTu. adaralilx niVranunx tuMbuvadakoVsakxra oMdu saMNa pAterxyanunx matotxMdu doDaDx pAterxyanunx saMpAdisidadxru. adaralilx saMNa pAterx inonxbabxnu tegadu koMDu $4$ minUyxTinalilx $2$ salavU, matotxbabxnu doDaDxpAterxyanunx tegadukoMDu $4$ minUyxTinalilx $3$ salavU tuMbuvadakekx pArxraMBisidarU. AdAgUyx saMNa pAterx eSuTx niVru hiDiyudoV adara eraDaSuTx niVru doDaDx pAterx hiDiyutitutx. hiVgiralAgi $12$ minUyxTfnalilx A pAterxyU saMpUNaRvAyitu. Adare A pAterxgaLu eSeTxSuTx maNa niVru hiDiya takakxvugaLAgidadxvu, heVLu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{minUyxTige} & \text{satiR} & \text{minUyxTige} & \text{satiR}\\
+4 & :\; 2\; :: & 12 & =6\; \text{idu saMNa pAterxyiMda hAkida satiRyu.} 
+\end{tabular}
+
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{minUyxTige} & \text{satiR} & \text{minUyxTige} & \text{satiR}\\
+4 & :\; 3\; :: & 12 & =9\; \text{idu doDaDx pAterxyiMda hAkidaMthA satiRyu.} 
+\end{tabular}
+
+Agalu oMdoMdu satiRge cikakxdaralilx $1$ maNavU doDaDxdaralilx $2$ maNavU niVru bitetxMdu BAvisoVNa. hAgAdare,
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{salakekx} & \text{maNa saMNa pAterx} & \text{satiRge}\\
+1 & :\qq 1\qq :: & 6= & 6\; \text{maNa niVru saMNa pAterxdAyitu.}\\
+\text{salakekx} & \text{maNa doDaDx pAterx} & \text{satiRge}  \\
+1 & :\qq 1 \qq:: & 9= & 18\; \text{maNa niVru doDaDx pAterxdAyitu.}\\[-5pt]
+&&&$---------------$\\[-5pt]
+&&& 24\; \text{maNa \;2\; pAterxgaLiMda AdahAgAyitu.}\\
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{AdadxriMda, maNakekx} & \text{maNa niVrina saMNa pAterx} & \text{maNakekx}\\
+\qq24 & :\qq\quad 1 \qq\quad :: & 480=20\; \text{maNa hiDiya}\\ 
+&& \text{takakx parxmANa saMNapAterxdAyitu.}
+\end{tabular}\\[10pt]
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{maNakekx} & \text{maNa doDaDx pAterx niVru} & \text{maNakekx}\\
+24   &: \qq 2 \qq\qq:: & 480=40\; \text{maNa hiDiya takakxdudx}\\ 
+&&\text{doDaDxpAterxV parxmANavAyitu.}
+\end{tabular}
+
+\item obabxnu AkAra, ikAra, ukArareMba $3$ janagaLige tananx darxvayxvanunx haMci koTaTxnu. hAyxgeMdare, akAranige $2$ rUpAyi Adare ikAranige $4$ rUpAyigaLu bara beVku. matutx ikAranige $6$ rUpAyi shikikxdare ukAranige $9$ shikakx beVku. hiVge haMcalAgi ikArana pAlige $400$ rUpAyigaLu dorakidavu. Agalu akAra ukAraru pAlina darxvayxgaLeSuTx? matUtx elAlx darxvayxveSuTx?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}>{$}l<{$}}
+\text{ikAranige baMdare} & \text{akAranige} & \text{ikAranige}\\
+4 & :\quad 2 \qq :: & 400 & = 200\; \text{AkArana pAlu.}\\
+\text{ikAranige baMdare} & \text{ukAranige} & \text{ikAranige}\\
+6 & :\qq 9 \qq :: & 400 & =600\;  \text{ukArana pAlu.}\\
+&&& \quad\;400\; \text{ikArana pAlu.}\\[-5pt]
+&&&\quad$------$\\[-5pt]
+&&& \quad1200\; \text{oTuTx rUpAyi.}\\[-5pt]
+&&&\quad$------$\\[-5pt]
+\end{tabular}
+
+\item oMdu kelasavanunx $3$ jana gaMDasaru athavA $5$ jana heMgasaru athavA $7$ jana huDugaru $1$ divasadalilx mADutAtxre, hAgAdare A kelasavanunx $1$ gaMDasU $2$ jana heMgasarU $3$ jana huDugarU oTiTxge sheVri eSuTx kAladlilx mADuvaru?
+\begin{verse}
+idaralilx $1$ divasakekx obabx gaMDasu $\tfrac{1}{3}$ BAga kelasanUnx obabx heMgasu $\tfrac{1}{5}$ BAga kelasavanUnx obabx huDuga $\tfrac{1}{7}$ BAga
+kelasavanUnx mADida hAgAguvadadxriMda $\tfrac{1}{3}+\tfrac{2}{5}+\tfrac{3}{7}=\tfrac{122}{105}$ BAgA kelasavanunx
+ obabx gaMDasU $2$ jana heMgasarU, $3$ jana huDugarU saha sheVri mADida
+hAgAyitu. Adare avarige pUrA kelasa mADuvadakekx $\tfrac{105}{122}$ divasa 
+utatxravu.
+\end{verse}
+
+\item akAra, ikArareMbuvaribabxrU $1072$ yADfR paridhiyuLaLx oMdu ja\char'371\char'301jina vatuRLa mAgaRdalilx eduru badarige niMtitxdadxru. avaralilx akAranu $1$ minUyxTinalilx $11$ yADfRnunx naDiya takakxvanAgiyU, ikAranu $3$ minUyxTinalilx $34$ yADfR naDiya takakxvanAgiyU idudx avaribabxru parxdakaSxNeyanunx mADuvadakekx tamanx tamamx vAma BAgavanunx kuritu horaTare eSuTx parxdakaSxNegaLanunx mADuvadaroLage avaribabxrU oMdAgi sheVrutAtxre heVLu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{ikAranu} & 3\; \text{minUyxTige}\; 34 & \text{yADfR naDiyutAtxne.}\\
+\text{akAranu} & 3\; \text{minUyxTige}\; 33 & \text{yADfR naDiyutAtxne.}\\
+\cline{2-2}\\[-12pt]
+& 3\; \text{minUyxTige}\; 1 & \text{vetAyxsavAyitu. adhaR}
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+\text{yADfR vetAyxsakekx.} & \text{yADfR naDiyutAtxne.} & \text{yADf vetAyxsakekx yADfR}\\
+1 & :\qq 34 \qq :: & 536=18224\\
+& \multicolumn{2}{c}{\qq\qq\text{idu avaribabxrigU saMdhisida dUravu.}}
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{Agalu}, & \text{yADfRge. parxdakaSxNe} & \text{yADfRge}\\
+& 1072 \quad :\quad 1\quad :: &18224=17\; \text{parxdakiSxNegaLu utatxra.}\\
+\end{tabular}
+
+\item obabxnu $5$ divasakekx $4$ rUpAyigaLanunx saMpAdisutAtxne athavA $4$ sholxVkagaLanunx kaliyutAtxne matutx $3$ divasakekx $4$ rUpAyigaLanunx saMpAdisutAtxne athavA $4$ sholxVkagaLanunx kaliyutAtxne. matutx $3$ divasakekx $2$ rUpAyigaLanunx vecacx mADutAtxne athavA $2$ sholxkagaLanunx mariyutAtxne. hAgAdare, $1$ vaSaRkekx eSuTx rUpAyigaLanunx saMpAdishAyxnu? matUtx eSuTx sholxkagaLanunx kalitAnu, heVLu?
+
+\begin{tabular}{>{$}l<{$}>{$}l<{$}>{$}l<{$}>{$}l<{$}}
+& \text{di.} & \text{rU. athavA sholx.} & \text{di.}\\
+& 5 \quad: & 4 \qq\qq:: & 1=\tfrac{4}{5}\; \text{rUpAyanAnxgali sholxVkagaLanAnxgali saMpAdisutAtxne.}\\
+
+& \text{di.} & \text{rU. athavA sholx.} & \text{di.}\\
+& 3\quad : & 2 \qq\qq :: & 1=\tfrac{2}{3}\; \text{rupAyiyanAnxgali sholxkagaLanAnxgali kaLakoLuLxtAtxne.}\\[10pt]
+\text{Agalu} &\multicolumn{2}{c}{$ \dfrac{4}{5}-\dfrac{2}{3}=\dfrac{12-10}{15}=\dfrac{2}{15}$}&  \text{rUpAyigaLanAnxgali sholxkagaLanAnxgali}\; 1\; \text{divasakekx}\\[10pt]
+&&&\text{saMpAdisada hAgAyitu.}\\[10pt]
+& \text{di.} & \text{rU. athavA sholx.} & \text{di.}\\[10pt]
+
+\text{Adare} & \multicolumn{2}{c}{$\dfrac{1}{1}\quad : \dfrac{2}{15}\quad :: \dfrac{360}{1}=$} & 48\;\text{rUpAyi athavA}\; 48\; \text{sholxVkavanunx saMpAdisutAtxne.}
+\end{tabular}
+
+\item obabx vataRkanu $4$ rUpAyige $5$ maNadaMte tegadukoMDu $3$ rUpAyige $2$ maNadaMte mAri biDalAgi, $150$ rUpAyi lABa baMtu. Adare avanalilxdadx baMDavALa eSuTx?
+
+idaralilx avana asalu $1$ rUpAyi itetxMdu BAvisoVNa.
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{Agalu,} & \text{rU.ge} & \text{maNa} & \text{rU. ge}\\
+& 4 \quad : & 5\quad :: & 1=\tfrac{5}{4}\; \text{maNavanunx avanu tegadukoMDadu.}
+\end{tabular}
+
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{maNakekx} & \text{rU} & \text{maNakekx}\\
+\quad\dfrac{2}{1} \quad: & \quad\dfrac{3}{1} \quad:: & \quad\dfrac{5}{4}=\dfrac{15}{8}=1\dfrac{7}{8}\; \text{rUpAyi mAralAgi baMdadudx.}\\[10pt]
+&& \qq 1\; \text{avana asalu, jAtA bAki nape uLidadudx}\; \tfrac{7}{8}\;
+\end{tabular}
+
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{Agalu rU.} & \text{naPege.} \text{rU.} & \text{asalu.} & \text{rU. naPege.}\\
+& \dfrac{7}{8} & \dfrac{1}{1} & \dfrac{150}{1} & =171\dfrac{3}{7}\; \text{rUpAyi asalu utatxravu.} 
+\end{tabular}
+
+\item $240$ rUpAyigaLanunx $3$ janagaLige haMcikoMDu. hAyxgeMdare, obabxnige $1$ rUpAyi baMdare matotxbabxnige $2$ rUpAyigalU inonxbabxnige $3$ rUpAyigaLU baMda hAge sariyAgira beVku. Agalu yArAyxrige eSeSuTx?
+
+idaralilx $1+2+3=6$ idu mUru janariMda Adadudx. Agalu,
+
+\begin{tabular}{>{$}l<{$}>{$}l<{$}>{$}l<{$}>{$}l<{$}>{$}c<{$}>{$}l<{$}}
+&\text{rU}& \text{rU. na} & \text{BAgakekx.} & \text{rU.}\\
+6\; \text{rU. ge} \;:&240 &:: & 1& =\; 40& \text{oMdaneVyavanige}\\
+6\; \qq : &240 & :: & 2 & =\; 80 &\text{eraDaneVyavanige}\\
+6\; \qq : & 240 & :: & 3 & \;=\; 120 &  \text{mUraneVyavanige}\\ 
+\cline{5-5}
+&&&& \text{oTuTx}. 240\\
+\cline{5-5}
+\end{tabular}
+
+\item 
+oMdu seYnayxdalilx $5$ kaMpenigaLidadxvu. modalaneVdaralilx $54$ janavU eraDaneVdaralilx $51$ janavU mUraneVdaralilx $48$ janavU nAlukxneVdaralilx $39$ janavU $5$neV kaMpeniyalilx $36$ janavU hiVge irutitxdadxru. avaralilx oMdu koVTeya kAvaligoVsakxra $1$ JAmakekx $76$ janagaLa parxkArakekx kaLuhisa beVkAgidadxre, yAvAtxva kaMpenigaLiMda eSeTxSuTx janagaLanunx kaLuhisa beVku?
+
+\qq $54+51+48+39+36=228$ idu oTuTx janagaLU.
+
+\begin{tabular}{>{$}l<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}>{$}l<{$}}
+\text{Agalu}, & \text{janagaLalilx}. & \text{janagaLanunx} & \text{kaLuhisa beVku.} & \text{janaru.}\\
+& 228 & : & 76 &::\; 54=18 & \text{janaru.}\\
+& 228 & : & 76 &::\;51=17\\
+& 228 & : & 76 &::\; 48=16\\
+& 228 & : & 76 &::\; 39=13\\
+& 228 & : & 76 &::\; 36=12\\
+\cline{5-5} 
+& & & & \text{oTuTx}\;76\\
+\cline{5-5} 
+\end{tabular}
+
+\item kakAra gakArareMbuvaribabxru vAyxpArakoVsakxra saMmatipaTuTx, avaralilx kakAranu $500$ rUpAyigaLanunx koTuTx $4$ tiMgaLu, matutx gakAraneMbuvanu $600$ rUpAyigaLanunx koTuTx $5$ tiMgaLU AgiralAgi, muMde avarige $240$ rUpAyigaLanunx koTuTx $5$ tiMgaLU AgiralAgi, muMde avarige $240$ rUpAyi lABa shikikxdare, yArAyxru eSeTxSuTx tegadukoLaLx beVku?
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}}
+500 \times 4 =2000\\
+600 \times 5 =3000\\
+\qq \text{oTuTx}\; 5000
+\end{tabular}
+\right \}
+$
+\begin{tabular}{>{$}c<{$}>{$}l<{$}>{$}l<{$}>{$}l<{$}}
+\text{rU. ge} & \text{rU. lABa} & \text{rU. ge}\\
+5000 & :\quad 240\quad:: & 2000  =  96 & \text{rU kakAranige}\\
+5000 & :\quad 240 \quad:: & 3000  =  144 & \text{rU. gakAranige}\\
+\cline{3-3}
+&& \text{oTuTx}\; 240\\
+\cline{3-3}
+\end{tabular}
+
+\item cakAra, jakAra, TakArareMba mUru janaru $342$ rUpAyige oMdu hululx gAvalanunx gutitxgegx tegadukoMDaru. adaralilx cakArana $7$ AkaLu $3$ tiMgaLU matutx jakArana $9$ AkaLu $5$ tiMgaLU matutx TakArana $4$ AkaLu $1$ vaSaRvU meVdiralAgi, A gutitxgeV haNavanunx yArAyxru eSeTxSuTx koDa beVku, heVLu?
+
+\begin{tabular}{>{$}c<{$}>{$}l<{$}}
+7\times 3=21 &\text{AkaLu cakAranadu.}\\
+9\times 5=45 &\text{AkaLu jakAranadu.}\\
+4\times 12=48 &\text{AkaLu TakAranadu.}\\[-8pt]
+\qq\quad\; $-----$\\[-8pt]
+\qq\quad\; 144& \text{AkaLu mUru janagaLadU sheVri meVda hAge Ayitu.}
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}l<{$}>{$}c<{$}>{$}l<{$}>{$}l<{$}}
+\text{Agalu,} & \text{AkaLige} & \text{rU.} & \text{AkaLige}\\
+& 114 & : 342 :: & 21=63 &\text{rU. cakAra koDa takakxdudx.}\\
+& 114 & : 342 :: & 45=135 &\text{rU. jakAra koDa takakxdudx.}\\
+& 114 & : 342 :: & 48=144 & \text{rU. TakAra koDa takakxdudx.}\\
+\cline{4-4}
+&&& \;\text{oTuTx}\; 342 & \text{rUpAyi.}
+\end{tabular}
+
+\item obabxnalilx $5$ roTiTxgaLU inonxbabxnalilx $7$ roTiTxgaLU idadxvu. avaru tinanx beVkeMba samayakekx matotxbabxnige yita baMdanu. Aga mUru janagaLU A roTiTxgaLanunx samanAgi tiMdaru. A meVle baMdaMthA A senxVhitanu saMtoVSadiMda $12$ duDuDxgaLanunx koTaTxnu. Adare adu $5$ roTiTxyavanige eSuTx duDuDxgaLu bara beVku heVLu?
+
+\qq $5+7=12\div3=4$\quad \text{roTiTx obobxbabxnu tiMdanu.}
+
+
+\begin{tabular}{>{$}c<{$}>{$}l<{$}>{$}l<{$}}
+\text{Agalu},& 5 & \text{roTiTx}\\
+& 4 & \text{tA tiMdA}\\
+\cline{2-2}
+& 1 & \text{baMdavanige koTATx}\; $+$
+\end{tabular}
+\begin{tabular}{>{$}c<{$}>{$}l<{$}}
+7 & \text{roTiTx}\\
+4 & \text{tA tiMdA}\\
+\cline{1-1}
+\; 3 & \text{baMdavanige koTATx}= 4\quad \text{roTiTx baMdavanu tiMdadudx.}
+\end{tabular}
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{roTiTxge.} & \text{duDuDx koTATx.} & \text{roTiTxge.}\\
+4 & :\quad  12 \quad::& 1 &=3\; \text{duDuDx idu\; $5$\; roTiTxyavanige,}\\
+4 & :\quad 12 \quad ::& 3& =9\; \text{duDuDx idu\; $7$\; roTiTxyavanige.}
+\end{tabular}
+
+\item obabxnu mAvina haMNugaLanunx ANege $4$ra meVrige tegadu koMDanu. A meVle A haMNugaLalilx $\tfrac{1}{3}$ BAgavanunx $8$ haMNige $10$ duDiDxna hAge mAridanu. A meVle uLida haMNugaLanenxlAlx oTiTxge $2\tfrac{1}{2}$ rUpAyige koTuTx biTaTxnu. A meVle uLida haMNugaLanenxlAlx oTiTxge $2\tfrac{1}{2}$ rUpAyige koTuTx biTaTxnu. idariMda avanige $13$ ANe $4$ peY naPe baMtu. Adare haMNugaLeSuTx?
+
+$1$ ANege $4$ haMNu Adare $1$ haMNu\;=\;$\dfrac{3}{4}$\; duDuDx.\\
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{haMNige} & \text{duDuDx} & \text{haMNige}\\
+8 & : 10 :: & \tfrac{1}{3}& =\tfrac{5}{12}\; \text{duDuDx.}
+\end{tabular}
+
+$\dfrac{3}{4}-\dfrac{5}{12}=\dfrac{9-5}{12}=\dfrac{4}{12}=\dfrac{1}{3}$\quad \text{duDuDx sheVSa.}\\
+
+$
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+& 2\tfrac{1}{2}\; \text{rU}=& 120 & \text{duDuDx.}\\
+13 & \text{A.} 4\; \text{peY.}= &\; 40 & \text{duDuDx naPe.}\\
+\cline{3-3}
+&& \; 80 & \text{duDuDx.}
+\end{tabular}
+\right \}
+$
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{duDuDx} & \text{sheVSakekx} & \text{haMNu} & \text{ke.}\\[2pt]
+\tfrac{1}{3} & \qq :& \quad\tfrac{1}{1} \; :: & 80\\[2pt]
+&& =240 & \text{haNuNx.}
+\end{tabular}
+
+\item oMdu nAramx\char'366 sUkxlfnalilx $100$ jana vidAyxthiRgaLidadxru. avaralilx kelavarige $7$ rU. meVrigU kelavarige $5$ rU. meVrigU saMbaLagaLu salulxtAyitutx. tiMgaLu tuMbida meVle oTuTx saMbaLa $684$ rUpAyigaLu dorakidavu. adaralilx mAyxsaTxrf saMbaLa $40$ rUpAyigaLAgidadxre, A sUkxlfnalilx yAvAyxva saMbaLavanunx tegadukoLaLx takakxvaru, eSeTxSuTx huDugaridadxru heVLu?
+
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}c<{$}>{$}l<{$}}
+\text{oTuTx jana}\\
+\qq 100\times7 & \text{hecicxna dara saMbaLa}=&700&&684& \text{rU.}\\
+&& 644 & \text{rU. baMdadudx.} & \;40 & \text{mAsaTxradu.}\\
+\cline{3-3}&\\[-14pt] \cline{5-5}
+\end{tabular}\\[-4pt]
+
+\quad$
+\left.
+\begin{tabular}{>{$}c<{$}>{$}c<{$}}
+7-5=2\; \text{idu hecucx matutx}\\
+\quad \text{kaDemx}  \text{daragaLiruva aMtara.}
+\end{tabular}
+\right \}
+$
+\begin{tabular}{>{$}c<{$}>{$}c<{$}>{$}c<{$}}
+2) &\; 56 & \qq\qq644 \quad\; \text{rU.}\\
+& \;
+28 & \text{ivaru $5$ rU. darada huDugaru.}
+\end{tabular}\\[-4pt]
+
+\begin{tabular}{>{$}l<{$}>{$}c<{$}>{$}l<{$}}
+\text{athavA}  & 644 & \text{rU. ba.}\\
+100 \times 5\quad  \text{kaDemxdara}\quad=& 500 &\qq 72\; \text{dara\; $7$\; rUpAyina vidAyxthiRgaLU.}\\
+\cline{2-2}
+\qq\text{darada aMtara}\quad 2) &144\\
+\cline{2-2}
+& \quad72 & \text{dara\; 7\; rU.navaru}\\
+& \quad28 & \text{dara\; 5\quad ,,}
+\end{tabular}
+\end{enumerate} 
+
+

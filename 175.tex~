@@ -1,0 +1,42 @@
+\vskip 1cm
+
+\heading{175neV parxkaraNa}
+
+\subheading{tUkada kaTelxgaLa niMbaMdhane}
+
+obabxnu eSATxdarU kulxpatxvAgi kaTelxgaLanunx tUkadiMda
+niMbaMdhaneyanunx kaMDu mADisi, avugaLiMda iSuTx sheVrinavaLagAgi
+beVkAdaSaTxnunx vaLahora paDigaLa karxmadiMda tUgi koDa beVkAdare,
+aMthA kaTelxgaLa tUka parxmANavanunx kANa takakx mAgaRvu sUtarx.
+
+\begin{description}
+\item[kaM||] oMdAditirxguNadoLuM| baMdhisuta lopxVgaloMdu
+  kaDemeyatanakaM|| muMdeSuTx kaDameyAguva| daMdavatiLi\-yutatxloMda
+  niTaTxresamaneY|| 
+
+\item[vi||] oMdAdiyAgi tirxguNa parxmANakekx sariyAgi kulxpatxkekx $1$
+  kaDameyAda saMKayxdavarige niNaRyisikoMDu sAladeV hoVdaMthA
+  sheVrugaLa parxmANakekx baMdu iTuTxkoMDare, sariyAguvadu.
+
+\item[$(1)$ u.] $1$ maNuvige $4$ guMDugaLaninxTuTx keVLidaSaTxnunx
+  maNuvinoLagAgi tUgi koDa beVkAdare, mUru guMDugaLanunx tirxguNa
+  karxmavAgiyU, sAladeV hoVdadxkekx oMdu guMDanUnx
+  iDabeVkAyitu. hAyxgeMdare.
+
+  \begin{tabular}{>{$}r<{$}>{$}r<{$}l}
+    1, 3, 9, = & 13 & sheVru matutx 3 guMDugaLAdavu.\\
+    & 27 & sheVru sAladadxkAkxgi iDatakakx $1$ guMDina parxmANavu.\\
+    \cline{2-2}
+    & 40 & sheVru matutx $4$ guMDugaLAdavu.
+  \end{tabular}
+
+  ivugaLiMda keVLidaSuTx tUgi koDabahudu.
+\item[$(2)$] 100 sheVru tUguvadakekx $5$ guMDugaLAdare,
+
+  \begin{tabular}{>{$}r<{$} >{$}r<{$}l}
+    1, 3, 9, 27= & 40 & sheVru $4$ guMDu\\
+    & 60 & sheVriMdu $1$ guMDu
+  \end{tabular}
+\end{description}
+
+

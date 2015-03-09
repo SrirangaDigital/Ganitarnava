@@ -1,0 +1,27 @@
+\newpage
+
+\begin{center}
+{\bf\LARGE 103neV parxkaraNa.}\\
+\vskip .3cm
+{\bf Adi, gaNoVtatxra, sarayxdhana I $3$riMda aMtayx padavanunx tegiyuva riVti.}\\
+\end{center}
+
+\begin{verse}
+kaM|| AdiyanaLi sarayxdhanado | LomxVdadoLahxrisA guNoVtarxdiMdada matAtx Adhana sarayxdikaLiya | lAkxdudepeVLaMtayx padavu gaNakara matadiM||
+
+vi|| sarayxdhanadalilx Adi padavanunx kaLadu uLidadadxnunx guNoVtatxradiMda BAgisi, A laBadhxvanunx sarayxdhanadalilx kaLadare aMtayx padavAguvadu.
+\end{verse}
+
+udAharaNe, Adi $1$, guNoVtatxra $2$, sarayxdhana $1048575$ Agalu aMtayx padaveSuTx?
+
+\qq $1048575-\tfrac{1048575-1}{2}=524288.$
+
+\begin{center}
+{\bf\large 115neV aBayx udAharaNe.}
+\end{center}
+
+\begin{enumerate}[\rm(1)]
+\item Adi $\tfrac{1}{2}, 1, 3,$ guNoVtatxra $\tfrac{1}{2}, \tfrac{1}{4}, 4,$ sarayxdhanavu $\tfrac{16777215}{16777216}, \tfrac{1398101}{1048576}, 16777215$ Agalu parxteyxVka aMtayx padagaLeSuTx?
+
+\item obabx doreyu modalu divasa $4$ peY, $2$neV divasa $16$ peY  I parxkArakekx oTiTxge $29826161$ rUpAyi $12$ ANe $4$ peY dharamx mADidanu. Agalu kaDeV divasa eSuTx koTaTxnu?
+\end{enumerate}

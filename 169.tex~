@@ -1,0 +1,35 @@
+
+\heading{169neV parxkaraNa}
+
+\subheading{uMguragaLanunx koDuva leKaKx.}
+
+\begin{description}
+\item[(1) u] obabxnu $10$ uMgaragaLanunx mADisi, adara belegaLanunx
+  tiLakoMDu, tananx jiVtadALige 1 vaSaRdavaLagAgi eSuTx divasakekx
+  beVkAdarU oMdoMduMgaragaLanenxV koDuvaneMtalU, matutx $1000$
+  varahAgaLanunx $10$ gaMTugaLAgi kaTiTx $1000$ divasagaLagAgi eSuTx
+  divasakekx beVkAdarU gaMTugaLanenxV koDuvaneMtalU hAgAdare, avanu
+  uMguragaLanunx mADisida matutx gaMTugaLanunx kaTiTxsida, vidha
+  hAyxgeMdare, heVLuva mAgaRvu.
+
+\item[sUtarx||] dinavaMdakokxMdakoDuvada|
+  kenituMguragaMTapeVLavxnariyutAtxgalf|| enitoMdAdiya divxguNado|
+  LenitAguvadavanu kaTiTxnUyxnakokxMdaM||
+
+\item[vi||] oMdAdiyAgi divaguNisi kaTuTxtAtx sAladeV hoVdadadxkekx $1$
+  gaMTu athavA $2$ gaMTanunx kaTiTxdadxre, sariyAguvudu.
+
+    riVti, $1, 2, 4, 8, 32, 64, 128$  mADisida uMgaragaLa vivaravu.
+ 
+    $100, 5$ sAlade hoVdadakAkxgi, gaMTu kaTaTx beVkAdare,
+
+    $1, 2, 4, 8, 16, 32, 46, 128, 256, 489$ I parxkArakekx kaTaTxbeVku.
+
+\item[sUcane,] uMgarada leKaKxdalilx $1$ riMda $128$ ravarege $8$
+  uMgaragaLiMda $255$ vaahagaLAdavu. muMde $2$ gaMTu $105$ varahAgaLu
+  sAladeV hoVdadxriMda, $100$kekx 1 matutx $5$ kekx $1$ I parxkArakekx $2$
+  uMgaragaLanunx mADisa beVkAyitu. hAgeyeV $1$ riMda $256$ravarege $9$
+  gaMTugaLanunx kaTiTxdadxkekx $511$ varahagaLAdavu. Agalu sAladeV hoVda
+  $1$ gaMTege $499$ varahAgaLanunx kaTaTx beVkAyitu. hiVge eSaTxkekx
+  beVkAdarU noVDi koLaLxbahudu.
+\end{description}

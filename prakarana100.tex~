@@ -1,0 +1,32 @@
+\newpage
+
+\begin{center}
+{\bf\LARGE 100neV parxkaraNa.}\\
+\vskip .3cm
+{\bf guNoVtatxra, aMtayxpada sarayxdhana I $3$riMda Adi padavanunx kaMDu\\ 
+hiDiyuva riVtiyu.}\\
+\vskip .3cm
+{\bf\large sUtarx.} 
+\end{center}
+
+\begin{verse}
+kaM|| oMdanu guNakoVtatxrado | LukxMdisutadariMda sarayxdhavanava ninxridada|| neMdu guNoVtatxra vaMtayxva| naMdadoLiriyutatx kaLiyalAdiya padavU||
+
+vi|| oMdu kaDameyAda guNoVtatxradiMda sarayxdhanavanunx guNisi A labadhxvanunx (aMtayx guNoVtatxragaLanunx guNisidaMthA labadhxdalilx) kaLadare uLiyuvadeV Adi padavAgiruvadu.
+\end{verse}
+
+udAharaNe, guNoVtatxra $2$, aMtayxpada $524288$ sarayxdhana $1048575$, Adare AdipadaveSuTx?
+
+\qq $2\times524288-(2-1)1048575=1$ Adipadavu.
+
+\begin{center}
+{\bf\large 112neV aBayx udAharaNe.}
+\end{center}
+
+\begin{enumerate}[\rm(1)]
+\item guNoVtatxra $\tfrac{1}{2},\tfrac{1}{4} 4,$ aMtayxpada $\tfrac{1}{16777216}, \tfrac{1}{1048576}, 12582912,$ sarayxdhanavu. $\tfrac{16777215}{16777216}, \tfrac{1398101}{1048576}$,\break $16777215$, Adare AdipadagaLeSuTx?
+
+\item guNoVtatxra $2$ aMtayx pada $524288,$ sarayxdhana $1048575$ idadxre Adi padaveSuTx?
+
+\item obabx sAhukAranu modalaneV divasa koTaTxdadxkiMtalU nAlakxraSuTx hecucx hecAcxgi dhamaRvanunx mADalAgi kaDeV dina $22369621$ rUpAyi $5$ ANe $4$ kAsu, matutx oTuTx $29826161$ rUpAyi $12$ ANe $4$ kAsu vecacxvAyitu. Agalu modalaneV divasa eSuTx koTaTxnu?
+\end{enumerate}
