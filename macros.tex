@@ -1,0 +1,107 @@
+
+
+\usepackage{kanlel}
+\usepackage{amsmath,array,longtable, graphicx,float,epsfig, enumerate, latexsym, amsfonts,amssymb,multirow}
+\usepackage{fancyhdr}
+
+% DSC Book size
+\setlength{\textwidth}{14.5cm}
+\setlength{\textheight}{19.5cm}
+\setlength{\headsep}{14pt}
+\setlength{\headheight}{14pt}
+
+\evensidemargin=.5cm
+
+
+
+
+\pagestyle{fancy}
+\renewcommand{\footrulewidth}{0pt}
+\chead[]{}
+\lhead[\small\bf\thepage]{\small\sl\bfseries gaNitANaRva} 
+\rhead[\small\sl\bfseries gaNitANaRva]{\small\bf\thepage}
+\lfoot[]{}
+\cfoot[]{}
+\rfoot[]{}
+%\renewcommand\chaptermark[1]{\markboth{\bfseries ~\slshape #1}{}}
+%\renewcommand\sectionmark[1]{\markright{\bfseries\thesection.~\slshape #1}}
+
+
+
+
+\newcommand{\chsfk}[2]{\genfrac{[}{]}{0pt}{}{#1}{#2}}
+\newcommand{\chssk}[2]{\genfrac{\{}{\}}{0pt}{}{#1}{#2}}
+
+
+\def\heading#1{\begin{center}{\bf \LARGE #1}\end{center}}
+\def\subheading#1{\begin{center}{\bf \large #1}\end{center}}
+
+
+\def\poem{\bgroup\noindent\ignorespaces}
+\def\beginpoem{\bgroup\noindent\ignorespaces}
+\def\endpoem{\egroup}
+
+\def\qq{\,\hspace{1cm}}
+\def\RU{\includegraphics{mu1.eps}}
+\def\MU{\includegraphics{mu3.eps}}
+\def\SU{\includegraphics{mu2.eps}}
+\def\PU{\includegraphics{mu2.eps}}
+\def\AU{\,\includegraphics[scale=.4]{10.eps}}
+
+
+
+\makeatletter
+
+\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+                       \if@mainmatter
+                         \refstepcounter{chapter}%
+                         \typeout{\@chapapp\space\thechapter.}%
+                         \addcontentsline{toc}{chapter}%
+                                   {#1}%
+                       \else
+                         \addcontentsline{toc}{chapter}{#1}%
+                       \fi
+                    \else
+                      \addcontentsline{toc}{chapter}{#1}%
+                    \fi
+                    \chaptermark{#1}%
+                    \addtocontents{lof}{\protect\addvspace{10\p@}}%
+                    \addtocontents{lot}{\protect\addvspace{10\p@}}%
+                    \if@twocolumn
+                      \@topnewpage[\@makechapterhead{#2}]%
+                    \else
+                      \@makechapterhead{#2}%
+                      \@afterheading
+                    \fi}
+
+
+\def\@makechapterhead#1{%
+  %\vspace*{50\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        %\huge\bfseries \@chapapp\space \thechapter
+        %\par\nobreak
+        %\vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+	\begin{center}
+	{\huge\rm\bfseries G A N I T A R N A V A}
+	\vskip .7cm
+
+	{\bfseries\huge ga Ni tA NaR va}
+	\vskip .7cm
+
+	{\rm{\LARGE\textbf{INTRODUCTION}}}
+	\vskip .3cm
+
+	{\LARGE\bfseries piVThikeyu.}
+	\end{center}
+    \centerline{\Huge \bfseries #1}\par\nobreak
+    \vskip 20\p@
+  }}
+
+\renewcommand\chaptermark[1]{\markboth{#1}{}}
+
+\makeatother

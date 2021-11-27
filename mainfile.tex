@@ -1,66 +1,41 @@
-\documentclass[12pt]{book}
+\documentclass[12pt,openany]{book}
 
-
-\usepackage{kanlel}
-\usepackage{amsmath,array,longtable, graphicx,float,epsfig, enumerate, latexsym, amsfonts,amssymb,multirow}
-\usepackage{fancyhdr}
-
-% DSC Book size
-\setlength{\textwidth}{14.5cm}
-\setlength{\textheight}{19.5cm}
-\setlength{\headsep}{16.4528pt}
-
-\evensidemargin=.5cm
-
-
-
-
-\pagestyle{fancy}
-\renewcommand{\footrulewidth}{0pt}
-\chead[]{}
-\lhead[\small\bf\thepage]{\small\sl\bfseries gaNitANaRva} 
-\rhead[\small\sl\bfseries gaNitANaRva]{\small\bf\thepage}
-\lfoot[]{}
-\cfoot[]{}
-\rfoot[]{}
-%\renewcommand\chaptermark[1]{\markboth{\bfseries ~\slshape #1}{}}
-%\renewcommand\sectionmark[1]{\markright{\bfseries\thesection.~\slshape #1}}
-
-
-
-
-\newcommand{\chsfk}[2]{\genfrac{[}{]}{0pt}{}{#1}{#2}}
-\newcommand{\chssk}[2]{\genfrac{\{}{\}}{0pt}{}{#1}{#2}}
-
-
-\def\heading#1{\begin{center}{\bf \LARGE #1}\end{center}}
-\def\subheading#1{\begin{center}{\bf \large #1}\end{center}}
-
-
-\def\poem{\bgroup\noindent\ignorespaces}
-\def\beginpoem{\bgroup\noindent\ignorespaces}
-\def\endpoem{\egroup}
-
-\def\qq{\,\hspace{1cm}}
-\def\RU{\includegraphics{mu1.eps}}
-\def\MU{\includegraphics{mu3.eps}}
-\def\SU{\includegraphics{mu2.eps}}
-\def\PU{\includegraphics{mu2.eps}}
-\def\AU{\,\includegraphics[scale=.4]{10.eps}}
-
-
+\input macros
 
 \begin{document}
+
+\lhead[\small\rm\thepage]{\small\sl\bfseries gaNitANaRva} 
+\rhead[\small\sl\bfseries gaNitANaRva]{\small\rm\thepage}
+
+\frontmatter
 
 \input preface
 
 \tableofcontents
 
 \mainmatter
-
-
-
 \input introduction
+\clearpage
+\makeatletter
+\def\@makechapterhead#1{%
+  %\vspace*{50\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        %\huge\bfseries \@chapapp\space \thechapter
+        %\par\nobreak
+        %\vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \centerline{\Huge \bfseries #1}\par\nobreak
+    \vskip 20\p@
+  }}
+\makeatother
+
+\lhead[\small\bf\thepage]{\small\sl\bfseries \leftmark} 
+\rhead[\small\sl\bfseries gaNitANaRva]{\small\bf\thepage}
+
 \input prakarana2
 \input prakarana3
 \input prakarana4
